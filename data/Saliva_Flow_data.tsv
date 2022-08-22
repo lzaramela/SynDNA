@@ -1,9 +1,0 @@
-SampleID	saliva_weight_g	saliva_volume_mL_collected_in_5_min	saliva_flow_rate_mL_per_min	FC_cells_per_ul_r1	FC_cells_per_ul_r2	FC_avg_cells_per_ul	FC_avg_cells_5_min	gender
-A1	1.28	1.1	0.22	27508	22654	25081	27589100	male
-C1	4.54	4.4	0.88	1783	1750	1767	7772600	female
-D1	2.11	2	0.4	6021	6092	6057	12113000	male
-E1	0.77	0.7	0.14	100556	93037	96797	67757550	male
-F1	1.24	1.1	0.22	60411	83778	72095	79303950	female
-G1	0.43	0.4	0.08	18149	17787	17968	7187200	male
-H1	1.67	1.8	0.36	54305	55868	55087	99155700	male
-J1	1.16	1.1	0.22	23758	25245	24502	26951650	female
