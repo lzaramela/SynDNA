@@ -1,0 +1,143 @@
+==> mousegut/log50/EBN_S1_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+2245958 reads; of these:
+  2245958 (100.00%) were unpaired; of these:
+    2245391 (99.97%) aligned 0 times
+    225 (0.01%) aligned exactly 1 time
+    342 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/EBN_S1_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+2240947 reads; of these:
+  2240947 (100.00%) were unpaired; of these:
+    2240345 (99.97%) aligned 0 times
+    231 (0.01%) aligned exactly 1 time
+    371 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/EBN_S2_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+979914 reads; of these:
+  979914 (100.00%) were unpaired; of these:
+    979618 (99.97%) aligned 0 times
+    112 (0.01%) aligned exactly 1 time
+    184 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/EBN_S2_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+976533 reads; of these:
+  976533 (100.00%) were unpaired; of these:
+    976220 (99.97%) aligned 0 times
+    115 (0.01%) aligned exactly 1 time
+    198 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/EBN_S3_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+4212898 reads; of these:
+  4212898 (100.00%) were unpaired; of these:
+    4211765 (99.97%) aligned 0 times
+    325 (0.01%) aligned exactly 1 time
+    808 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/EBN_S3_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+4177594 reads; of these:
+  4177594 (100.00%) were unpaired; of these:
+    4176462 (99.97%) aligned 0 times
+    343 (0.01%) aligned exactly 1 time
+    789 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/PSM_S1_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+3479161 reads; of these:
+  3479161 (100.00%) were unpaired; of these:
+    3478169 (99.97%) aligned 0 times
+    354 (0.01%) aligned exactly 1 time
+    638 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/PSM_S1_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+3456683 reads; of these:
+  3456683 (100.00%) were unpaired; of these:
+    3455689 (99.97%) aligned 0 times
+    388 (0.01%) aligned exactly 1 time
+    606 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/PSM_S2_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+2842324 reads; of these:
+  2842324 (100.00%) were unpaired; of these:
+    2840993 (99.95%) aligned 0 times
+    640 (0.02%) aligned exactly 1 time
+    691 (0.02%) aligned >1 times
+0.05% overall alignment rate
+
+==> mousegut/log50/PSM_S2_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+2812737 reads; of these:
+  2812737 (100.00%) were unpaired; of these:
+    2811881 (99.97%) aligned 0 times
+    287 (0.01%) aligned exactly 1 time
+    569 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/PSM_S3_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+1664213 reads; of these:
+  1664213 (100.00%) were unpaired; of these:
+    1656371 (99.53%) aligned 0 times
+    6135 (0.37%) aligned exactly 1 time
+    1707 (0.10%) aligned >1 times
+0.47% overall alignment rate
+
+==> mousegut/log50/PSM_S3_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+1660387 reads; of these:
+  1660387 (100.00%) were unpaired; of these:
+    1659970 (99.97%) aligned 0 times
+    170 (0.01%) aligned exactly 1 time
+    247 (0.01%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/SOY_S1_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+4551985 reads; of these:
+  4551985 (100.00%) were unpaired; of these:
+    4549600 (99.95%) aligned 0 times
+    1244 (0.03%) aligned exactly 1 time
+    1141 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> mousegut/log50/SOY_S1_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+4538652 reads; of these:
+  4538652 (100.00%) were unpaired; of these:
+    4537438 (99.97%) aligned 0 times
+    386 (0.01%) aligned exactly 1 time
+    828 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/SOY_S2_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+1100663 reads; of these:
+  1100663 (100.00%) were unpaired; of these:
+    1100352 (99.97%) aligned 0 times
+    102 (0.01%) aligned exactly 1 time
+    209 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/SOY_S2_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+1096276 reads; of these:
+  1096276 (100.00%) were unpaired; of these:
+    1095964 (99.97%) aligned 0 times
+    125 (0.01%) aligned exactly 1 time
+    187 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/SOY_S3_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r1.fq_trim50.fastq_synthetic16S.log <==
+1283971 reads; of these:
+  1283971 (100.00%) were unpaired; of these:
+    1283590 (99.97%) aligned 0 times
+    149 (0.01%) aligned exactly 1 time
+    232 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> mousegut/log50/SOY_S3_L001_R1_001.fastq_output_forward_paired.fq.mouse.sam.bam.f13_r2.fq_trim50.fastq_synthetic16S.log <==
+1280017 reads; of these:
+  1280017 (100.00%) were unpaired; of these:
+    1279621 (99.97%) aligned 0 times
+    152 (0.01%) aligned exactly 1 time
+    244 (0.02%) aligned >1 times
+0.03% overall alignment rate

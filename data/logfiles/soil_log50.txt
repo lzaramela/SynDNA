@@ -1,0 +1,543 @@
+==> soil/log50/SRR7521490_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22522651 reads; of these:
+  22522651 (100.00%) were unpaired; of these:
+    22521939 (100.00%) aligned 0 times
+    122 (0.00%) aligned exactly 1 time
+    590 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521490_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22452777 reads; of these:
+  22452777 (100.00%) were unpaired; of these:
+    22452002 (100.00%) aligned 0 times
+    145 (0.00%) aligned exactly 1 time
+    630 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521491_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+47667750 reads; of these:
+  47667750 (100.00%) were unpaired; of these:
+    47666322 (100.00%) aligned 0 times
+    290 (0.00%) aligned exactly 1 time
+    1138 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521491_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+47610999 reads; of these:
+  47610999 (100.00%) were unpaired; of these:
+    47609492 (100.00%) aligned 0 times
+    326 (0.00%) aligned exactly 1 time
+    1181 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521492_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22565991 reads; of these:
+  22565991 (100.00%) were unpaired; of these:
+    22565220 (100.00%) aligned 0 times
+    154 (0.00%) aligned exactly 1 time
+    617 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521492_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22542179 reads; of these:
+  22542179 (100.00%) were unpaired; of these:
+    22541422 (100.00%) aligned 0 times
+    154 (0.00%) aligned exactly 1 time
+    603 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521493_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+37135470 reads; of these:
+  37135470 (100.00%) were unpaired; of these:
+    37134165 (100.00%) aligned 0 times
+    254 (0.00%) aligned exactly 1 time
+    1051 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521493_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+37075854 reads; of these:
+  37075854 (100.00%) were unpaired; of these:
+    37074535 (100.00%) aligned 0 times
+    274 (0.00%) aligned exactly 1 time
+    1045 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521494_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+43980113 reads; of these:
+  43980113 (100.00%) were unpaired; of these:
+    43977667 (99.99%) aligned 0 times
+    569 (0.00%) aligned exactly 1 time
+    1877 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521494_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+43881970 reads; of these:
+  43881970 (100.00%) were unpaired; of these:
+    43879406 (99.99%) aligned 0 times
+    658 (0.00%) aligned exactly 1 time
+    1906 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521495_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33225280 reads; of these:
+  33225280 (100.00%) were unpaired; of these:
+    33223589 (99.99%) aligned 0 times
+    337 (0.00%) aligned exactly 1 time
+    1354 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521495_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+33244689 reads; of these:
+  33244689 (100.00%) were unpaired; of these:
+    33243002 (99.99%) aligned 0 times
+    334 (0.00%) aligned exactly 1 time
+    1353 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521496_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+39888369 reads; of these:
+  39888369 (100.00%) were unpaired; of these:
+    39886032 (99.99%) aligned 0 times
+    550 (0.00%) aligned exactly 1 time
+    1787 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521496_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+39890786 reads; of these:
+  39890786 (100.00%) were unpaired; of these:
+    39888445 (99.99%) aligned 0 times
+    532 (0.00%) aligned exactly 1 time
+    1809 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521497_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+29221390 reads; of these:
+  29221390 (100.00%) were unpaired; of these:
+    29220025 (100.00%) aligned 0 times
+    260 (0.00%) aligned exactly 1 time
+    1105 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521497_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+29195265 reads; of these:
+  29195265 (100.00%) were unpaired; of these:
+    29193731 (99.99%) aligned 0 times
+    326 (0.00%) aligned exactly 1 time
+    1208 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521498_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+409720 reads; of these:
+  409720 (100.00%) were unpaired; of these:
+    409707 (100.00%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    10 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521498_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+408489 reads; of these:
+  408489 (100.00%) were unpaired; of these:
+    408474 (100.00%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    13 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521499_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31733083 reads; of these:
+  31733083 (100.00%) were unpaired; of these:
+    31731985 (100.00%) aligned 0 times
+    216 (0.00%) aligned exactly 1 time
+    882 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521499_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31677023 reads; of these:
+  31677023 (100.00%) were unpaired; of these:
+    31675859 (100.00%) aligned 0 times
+    213 (0.00%) aligned exactly 1 time
+    951 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521500_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24678286 reads; of these:
+  24678286 (100.00%) were unpaired; of these:
+    24677186 (100.00%) aligned 0 times
+    208 (0.00%) aligned exactly 1 time
+    892 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521500_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24633714 reads; of these:
+  24633714 (100.00%) were unpaired; of these:
+    24632557 (100.00%) aligned 0 times
+    223 (0.00%) aligned exactly 1 time
+    934 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521501_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26958359 reads; of these:
+  26958359 (100.00%) were unpaired; of these:
+    26957307 (100.00%) aligned 0 times
+    204 (0.00%) aligned exactly 1 time
+    848 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521501_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26910889 reads; of these:
+  26910889 (100.00%) were unpaired; of these:
+    26909851 (100.00%) aligned 0 times
+    214 (0.00%) aligned exactly 1 time
+    824 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521502_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20581914 reads; of these:
+  20581914 (100.00%) were unpaired; of these:
+    20580886 (100.00%) aligned 0 times
+    178 (0.00%) aligned exactly 1 time
+    850 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521502_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20552018 reads; of these:
+  20552018 (100.00%) were unpaired; of these:
+    20550996 (100.00%) aligned 0 times
+    189 (0.00%) aligned exactly 1 time
+    833 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521503_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+45490450 reads; of these:
+  45490450 (100.00%) were unpaired; of these:
+    45488625 (100.00%) aligned 0 times
+    359 (0.00%) aligned exactly 1 time
+    1466 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521503_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+45439738 reads; of these:
+  45439738 (100.00%) were unpaired; of these:
+    45437832 (100.00%) aligned 0 times
+    376 (0.00%) aligned exactly 1 time
+    1530 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521504_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+13930253 reads; of these:
+  13930253 (100.00%) were unpaired; of these:
+    13929721 (100.00%) aligned 0 times
+    100 (0.00%) aligned exactly 1 time
+    432 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521504_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+13912286 reads; of these:
+  13912286 (100.00%) were unpaired; of these:
+    13911741 (100.00%) aligned 0 times
+    89 (0.00%) aligned exactly 1 time
+    456 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521505_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+44074366 reads; of these:
+  44074366 (100.00%) were unpaired; of these:
+    44072255 (100.00%) aligned 0 times
+    420 (0.00%) aligned exactly 1 time
+    1691 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521505_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+43995126 reads; of these:
+  43995126 (100.00%) were unpaired; of these:
+    43992910 (99.99%) aligned 0 times
+    417 (0.00%) aligned exactly 1 time
+    1799 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521506_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+27414517 reads; of these:
+  27414517 (100.00%) were unpaired; of these:
+    27413492 (100.00%) aligned 0 times
+    238 (0.00%) aligned exactly 1 time
+    787 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521506_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27367052 reads; of these:
+  27367052 (100.00%) were unpaired; of these:
+    27365938 (100.00%) aligned 0 times
+    219 (0.00%) aligned exactly 1 time
+    895 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521507_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22335811 reads; of these:
+  22335811 (100.00%) were unpaired; of these:
+    22334936 (100.00%) aligned 0 times
+    169 (0.00%) aligned exactly 1 time
+    706 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521507_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22256102 reads; of these:
+  22256102 (100.00%) were unpaired; of these:
+    22255241 (100.00%) aligned 0 times
+    161 (0.00%) aligned exactly 1 time
+    700 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521508_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+32337231 reads; of these:
+  32337231 (100.00%) were unpaired; of these:
+    32336004 (100.00%) aligned 0 times
+    266 (0.00%) aligned exactly 1 time
+    961 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521508_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+32258860 reads; of these:
+  32258860 (100.00%) were unpaired; of these:
+    32257619 (100.00%) aligned 0 times
+    237 (0.00%) aligned exactly 1 time
+    1004 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521509_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30930463 reads; of these:
+  30930463 (100.00%) were unpaired; of these:
+    30929289 (100.00%) aligned 0 times
+    251 (0.00%) aligned exactly 1 time
+    923 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521509_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+30908602 reads; of these:
+  30908602 (100.00%) were unpaired; of these:
+    30907395 (100.00%) aligned 0 times
+    242 (0.00%) aligned exactly 1 time
+    965 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521510_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33986202 reads; of these:
+  33986202 (100.00%) were unpaired; of these:
+    33984998 (100.00%) aligned 0 times
+    249 (0.00%) aligned exactly 1 time
+    955 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521510_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+33936813 reads; of these:
+  33936813 (100.00%) were unpaired; of these:
+    33935604 (100.00%) aligned 0 times
+    236 (0.00%) aligned exactly 1 time
+    973 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521511_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+47751513 reads; of these:
+  47751513 (100.00%) were unpaired; of these:
+    47749755 (100.00%) aligned 0 times
+    376 (0.00%) aligned exactly 1 time
+    1382 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521511_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+47736790 reads; of these:
+  47736790 (100.00%) were unpaired; of these:
+    47735065 (100.00%) aligned 0 times
+    380 (0.00%) aligned exactly 1 time
+    1345 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521512_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+47342927 reads; of these:
+  47342927 (100.00%) were unpaired; of these:
+    47340641 (100.00%) aligned 0 times
+    500 (0.00%) aligned exactly 1 time
+    1786 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521512_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+47284091 reads; of these:
+  47284091 (100.00%) were unpaired; of these:
+    47281601 (99.99%) aligned 0 times
+    547 (0.00%) aligned exactly 1 time
+    1943 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521513_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+36458159 reads; of these:
+  36458159 (100.00%) were unpaired; of these:
+    36455929 (99.99%) aligned 0 times
+    446 (0.00%) aligned exactly 1 time
+    1784 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521513_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+36346869 reads; of these:
+  36346869 (100.00%) were unpaired; of these:
+    36344652 (99.99%) aligned 0 times
+    448 (0.00%) aligned exactly 1 time
+    1769 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521514_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+12009757 reads; of these:
+  12009757 (100.00%) were unpaired; of these:
+    12009229 (100.00%) aligned 0 times
+    96 (0.00%) aligned exactly 1 time
+    432 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521514_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+11998193 reads; of these:
+  11998193 (100.00%) were unpaired; of these:
+    11997581 (99.99%) aligned 0 times
+    120 (0.00%) aligned exactly 1 time
+    492 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521515_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+47123607 reads; of these:
+  47123607 (100.00%) were unpaired; of these:
+    47122056 (100.00%) aligned 0 times
+    334 (0.00%) aligned exactly 1 time
+    1217 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521515_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+47028503 reads; of these:
+  47028503 (100.00%) were unpaired; of these:
+    47026778 (100.00%) aligned 0 times
+    357 (0.00%) aligned exactly 1 time
+    1368 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521516_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31050353 reads; of these:
+  31050353 (100.00%) were unpaired; of these:
+    31049329 (100.00%) aligned 0 times
+    214 (0.00%) aligned exactly 1 time
+    810 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521516_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31006634 reads; of these:
+  31006634 (100.00%) were unpaired; of these:
+    31005550 (100.00%) aligned 0 times
+    238 (0.00%) aligned exactly 1 time
+    846 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521517_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+27605487 reads; of these:
+  27605487 (100.00%) were unpaired; of these:
+    27604341 (100.00%) aligned 0 times
+    232 (0.00%) aligned exactly 1 time
+    914 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521517_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27574249 reads; of these:
+  27574249 (100.00%) were unpaired; of these:
+    27572955 (100.00%) aligned 0 times
+    273 (0.00%) aligned exactly 1 time
+    1021 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521518_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+37909626 reads; of these:
+  37909626 (100.00%) were unpaired; of these:
+    37907771 (100.00%) aligned 0 times
+    376 (0.00%) aligned exactly 1 time
+    1479 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521518_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+37854310 reads; of these:
+  37854310 (100.00%) were unpaired; of these:
+    37852391 (99.99%) aligned 0 times
+    432 (0.00%) aligned exactly 1 time
+    1487 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521519_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+32442591 reads; of these:
+  32442591 (100.00%) were unpaired; of these:
+    32441144 (100.00%) aligned 0 times
+    261 (0.00%) aligned exactly 1 time
+    1186 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521519_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+32411547 reads; of these:
+  32411547 (100.00%) were unpaired; of these:
+    32409944 (100.00%) aligned 0 times
+    316 (0.00%) aligned exactly 1 time
+    1287 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521520_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33747268 reads; of these:
+  33747268 (100.00%) were unpaired; of these:
+    33745764 (100.00%) aligned 0 times
+    304 (0.00%) aligned exactly 1 time
+    1200 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521520_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+33705300 reads; of these:
+  33705300 (100.00%) were unpaired; of these:
+    33703752 (100.00%) aligned 0 times
+    322 (0.00%) aligned exactly 1 time
+    1226 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521521_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+42180487 reads; of these:
+  42180487 (100.00%) were unpaired; of these:
+    42179187 (100.00%) aligned 0 times
+    267 (0.00%) aligned exactly 1 time
+    1033 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521521_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+42154728 reads; of these:
+  42154728 (100.00%) were unpaired; of these:
+    42153417 (100.00%) aligned 0 times
+    229 (0.00%) aligned exactly 1 time
+    1082 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521522_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+39642550 reads; of these:
+  39642550 (100.00%) were unpaired; of these:
+    39641190 (100.00%) aligned 0 times
+    253 (0.00%) aligned exactly 1 time
+    1107 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521522_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+39590754 reads; of these:
+  39590754 (100.00%) were unpaired; of these:
+    39589294 (100.00%) aligned 0 times
+    275 (0.00%) aligned exactly 1 time
+    1185 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> soil/log50/SRR7521523_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33222518 reads; of these:
+  33222518 (100.00%) were unpaired; of these:
+    33220620 (99.99%) aligned 0 times
+    389 (0.00%) aligned exactly 1 time
+    1509 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> soil/log50/SRR7521523_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+33138176 reads; of these:
+  33138176 (100.00%) were unpaired; of these:
+    33136194 (99.99%) aligned 0 times
+    434 (0.00%) aligned exactly 1 time
+    1548 (0.00%) aligned >1 times
+0.01% overall alignment rate

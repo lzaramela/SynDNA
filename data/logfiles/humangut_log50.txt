@@ -1,0 +1,319 @@
+==> humangut/log50/SRR5763445_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+6272759 reads; of these:
+  6272759 (100.00%) were unpaired; of these:
+    6271584 (99.98%) aligned 0 times
+    494 (0.01%) aligned exactly 1 time
+    681 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763446_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+11024376 reads; of these:
+  11024376 (100.00%) were unpaired; of these:
+    11021910 (99.98%) aligned 0 times
+    1094 (0.01%) aligned exactly 1 time
+    1372 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763447_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+6177638 reads; of these:
+  6177638 (100.00%) were unpaired; of these:
+    6176267 (99.98%) aligned 0 times
+    505 (0.01%) aligned exactly 1 time
+    866 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763448_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3329789 reads; of these:
+  3329789 (100.00%) were unpaired; of these:
+    3329221 (99.98%) aligned 0 times
+    208 (0.01%) aligned exactly 1 time
+    360 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763449_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+9106470 reads; of these:
+  9106470 (100.00%) were unpaired; of these:
+    9104397 (99.98%) aligned 0 times
+    790 (0.01%) aligned exactly 1 time
+    1283 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763450_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+7465673 reads; of these:
+  7465673 (100.00%) were unpaired; of these:
+    7464243 (99.98%) aligned 0 times
+    592 (0.01%) aligned exactly 1 time
+    838 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763451_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+12369275 reads; of these:
+  12369275 (100.00%) were unpaired; of these:
+    12366487 (99.98%) aligned 0 times
+    1021 (0.01%) aligned exactly 1 time
+    1767 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763452_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+7634675 reads; of these:
+  7634675 (100.00%) were unpaired; of these:
+    7633147 (99.98%) aligned 0 times
+    607 (0.01%) aligned exactly 1 time
+    921 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763453_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+13352329 reads; of these:
+  13352329 (100.00%) were unpaired; of these:
+    13349168 (99.98%) aligned 0 times
+    1118 (0.01%) aligned exactly 1 time
+    2043 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763454_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+18719994 reads; of these:
+  18719994 (100.00%) were unpaired; of these:
+    18715558 (99.98%) aligned 0 times
+    1791 (0.01%) aligned exactly 1 time
+    2645 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763455_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+10354703 reads; of these:
+  10354703 (100.00%) were unpaired; of these:
+    10352793 (99.98%) aligned 0 times
+    887 (0.01%) aligned exactly 1 time
+    1023 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763456_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2528707 reads; of these:
+  2528707 (100.00%) were unpaired; of these:
+    2528048 (99.97%) aligned 0 times
+    240 (0.01%) aligned exactly 1 time
+    419 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> humangut/log50/SRR5763457_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+4382569 reads; of these:
+  4382569 (100.00%) were unpaired; of these:
+    4381513 (99.98%) aligned 0 times
+    359 (0.01%) aligned exactly 1 time
+    697 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763458_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2510292 reads; of these:
+  2510292 (100.00%) were unpaired; of these:
+    2509632 (99.97%) aligned 0 times
+    216 (0.01%) aligned exactly 1 time
+    444 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> humangut/log50/SRR5763459_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+4155412 reads; of these:
+  4155412 (100.00%) were unpaired; of these:
+    4154501 (99.98%) aligned 0 times
+    392 (0.01%) aligned exactly 1 time
+    519 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763460_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3947537 reads; of these:
+  3947537 (100.00%) were unpaired; of these:
+    3946753 (99.98%) aligned 0 times
+    319 (0.01%) aligned exactly 1 time
+    465 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763461_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3206592 reads; of these:
+  3206592 (100.00%) were unpaired; of these:
+    3205976 (99.98%) aligned 0 times
+    279 (0.01%) aligned exactly 1 time
+    337 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763462_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3040468 reads; of these:
+  3040468 (100.00%) were unpaired; of these:
+    3039773 (99.98%) aligned 0 times
+    341 (0.01%) aligned exactly 1 time
+    354 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763463_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2708491 reads; of these:
+  2708491 (100.00%) were unpaired; of these:
+    2707893 (99.98%) aligned 0 times
+    237 (0.01%) aligned exactly 1 time
+    361 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763464_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2563303 reads; of these:
+  2563303 (100.00%) were unpaired; of these:
+    2562770 (99.98%) aligned 0 times
+    228 (0.01%) aligned exactly 1 time
+    305 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763465_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3757608 reads; of these:
+  3757608 (100.00%) were unpaired; of these:
+    3756731 (99.98%) aligned 0 times
+    304 (0.01%) aligned exactly 1 time
+    573 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763466_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3081244 reads; of these:
+  3081244 (100.00%) were unpaired; of these:
+    3080691 (99.98%) aligned 0 times
+    229 (0.01%) aligned exactly 1 time
+    324 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763467_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2619354 reads; of these:
+  2619354 (100.00%) were unpaired; of these:
+    2618809 (99.98%) aligned 0 times
+    253 (0.01%) aligned exactly 1 time
+    292 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763468_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2097651 reads; of these:
+  2097651 (100.00%) were unpaired; of these:
+    2097288 (99.98%) aligned 0 times
+    146 (0.01%) aligned exactly 1 time
+    217 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763469_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+4712471 reads; of these:
+  4712471 (100.00%) were unpaired; of these:
+    4711424 (99.98%) aligned 0 times
+    517 (0.01%) aligned exactly 1 time
+    530 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763470_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2204865 reads; of these:
+  2204865 (100.00%) were unpaired; of these:
+    2204494 (99.98%) aligned 0 times
+    180 (0.01%) aligned exactly 1 time
+    191 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763471_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3805760 reads; of these:
+  3805760 (100.00%) were unpaired; of these:
+    3805097 (99.98%) aligned 0 times
+    331 (0.01%) aligned exactly 1 time
+    332 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763472_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3325306 reads; of these:
+  3325306 (100.00%) were unpaired; of these:
+    3324649 (99.98%) aligned 0 times
+    237 (0.01%) aligned exactly 1 time
+    420 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763473_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+4596357 reads; of these:
+  4596357 (100.00%) were unpaired; of these:
+    4595461 (99.98%) aligned 0 times
+    324 (0.01%) aligned exactly 1 time
+    572 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763474_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3953045 reads; of these:
+  3953045 (100.00%) were unpaired; of these:
+    3952150 (99.98%) aligned 0 times
+    295 (0.01%) aligned exactly 1 time
+    600 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763475_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+4494273 reads; of these:
+  4494273 (100.00%) were unpaired; of these:
+    4493317 (99.98%) aligned 0 times
+    374 (0.01%) aligned exactly 1 time
+    582 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763476_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+4291602 reads; of these:
+  4291602 (100.00%) were unpaired; of these:
+    4290746 (99.98%) aligned 0 times
+    340 (0.01%) aligned exactly 1 time
+    516 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763477_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2797475 reads; of these:
+  2797475 (100.00%) were unpaired; of these:
+    2796776 (99.98%) aligned 0 times
+    295 (0.01%) aligned exactly 1 time
+    404 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763478_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+2204126 reads; of these:
+  2204126 (100.00%) were unpaired; of these:
+    2203620 (99.98%) aligned 0 times
+    191 (0.01%) aligned exactly 1 time
+    315 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763479_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3293144 reads; of these:
+  3293144 (100.00%) were unpaired; of these:
+    3292539 (99.98%) aligned 0 times
+    206 (0.01%) aligned exactly 1 time
+    399 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763480_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3601625 reads; of these:
+  3601625 (100.00%) were unpaired; of these:
+    3600755 (99.98%) aligned 0 times
+    317 (0.01%) aligned exactly 1 time
+    553 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763481_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3024125 reads; of these:
+  3024125 (100.00%) were unpaired; of these:
+    3023419 (99.98%) aligned 0 times
+    208 (0.01%) aligned exactly 1 time
+    498 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763482_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3206817 reads; of these:
+  3206817 (100.00%) were unpaired; of these:
+    3206082 (99.98%) aligned 0 times
+    238 (0.01%) aligned exactly 1 time
+    497 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763483_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+3763781 reads; of these:
+  3763781 (100.00%) were unpaired; of these:
+    3763054 (99.98%) aligned 0 times
+    295 (0.01%) aligned exactly 1 time
+    432 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> humangut/log50/SRR5763484_trimmed.fq.nonHuman.fq_trim50.fastq_synthetic16S.log <==
+5647094 reads; of these:
+  5647094 (100.00%) were unpaired; of these:
+    5645820 (99.98%) aligned 0 times
+    494 (0.01%) aligned exactly 1 time
+    780 (0.01%) aligned >1 times
+0.02% overall alignment rate

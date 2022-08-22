@@ -1,0 +1,1727 @@
+==> skin/log50/FA_Sub_27_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+341706 reads; of these:
+  341706 (100.00%) were unpaired; of these:
+    341694 (100.00%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    8 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_27_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+131007 reads; of these:
+  131007 (100.00%) were unpaired; of these:
+    131006 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    1 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_28_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+312054 reads; of these:
+  312054 (100.00%) were unpaired; of these:
+    311961 (99.97%) aligned 0 times
+    29 (0.01%) aligned exactly 1 time
+    64 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_28_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+125582 reads; of these:
+  125582 (100.00%) were unpaired; of these:
+    125552 (99.98%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    17 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_30_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+979105 reads; of these:
+  979105 (100.00%) were unpaired; of these:
+    979068 (100.00%) aligned 0 times
+    16 (0.00%) aligned exactly 1 time
+    21 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_30_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+913635 reads; of these:
+  913635 (100.00%) were unpaired; of these:
+    913606 (100.00%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    20 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_30_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+292675 reads; of these:
+  292675 (100.00%) were unpaired; of these:
+    292654 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    18 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_30_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+177976 reads; of these:
+  177976 (100.00%) were unpaired; of these:
+    177962 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    9 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_31_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+179191 reads; of these:
+  179191 (100.00%) were unpaired; of these:
+    179150 (99.98%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    34 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_31_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+145291 reads; of these:
+  145291 (100.00%) were unpaired; of these:
+    145263 (99.98%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    24 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_31_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+120704 reads; of these:
+  120704 (100.00%) were unpaired; of these:
+    120676 (99.98%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    22 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_31_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+89231 reads; of these:
+  89231 (100.00%) were unpaired; of these:
+    89219 (99.99%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    7 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_32_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+275144 reads; of these:
+  275144 (100.00%) were unpaired; of these:
+    275120 (99.99%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    17 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_32_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+228962 reads; of these:
+  228962 (100.00%) were unpaired; of these:
+    228943 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    14 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_32_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+158049 reads; of these:
+  158049 (100.00%) were unpaired; of these:
+    158020 (99.98%) aligned 0 times
+    10 (0.01%) aligned exactly 1 time
+    19 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_32_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+134399 reads; of these:
+  134399 (100.00%) were unpaired; of these:
+    134383 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    13 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_33_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+285153 reads; of these:
+  285153 (100.00%) were unpaired; of these:
+    285101 (99.98%) aligned 0 times
+    12 (0.00%) aligned exactly 1 time
+    40 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_33_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+218387 reads; of these:
+  218387 (100.00%) were unpaired; of these:
+    218345 (99.98%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    27 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_33_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+534949 reads; of these:
+  534949 (100.00%) were unpaired; of these:
+    534797 (99.97%) aligned 0 times
+    41 (0.01%) aligned exactly 1 time
+    111 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_33_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+207331 reads; of these:
+  207331 (100.00%) were unpaired; of these:
+    207273 (99.97%) aligned 0 times
+    17 (0.01%) aligned exactly 1 time
+    41 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_34_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+322515 reads; of these:
+  322515 (100.00%) were unpaired; of these:
+    322451 (99.98%) aligned 0 times
+    18 (0.01%) aligned exactly 1 time
+    46 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_34_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+128676 reads; of these:
+  128676 (100.00%) were unpaired; of these:
+    128660 (99.99%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    10 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_34_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1404095 reads; of these:
+  1404095 (100.00%) were unpaired; of these:
+    1403845 (99.98%) aligned 0 times
+    57 (0.00%) aligned exactly 1 time
+    193 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_34_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+539189 reads; of these:
+  539189 (100.00%) were unpaired; of these:
+    539078 (99.98%) aligned 0 times
+    31 (0.01%) aligned exactly 1 time
+    80 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_35_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+552578 reads; of these:
+  552578 (100.00%) were unpaired; of these:
+    552498 (99.99%) aligned 0 times
+    18 (0.00%) aligned exactly 1 time
+    62 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_35_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+209760 reads; of these:
+  209760 (100.00%) were unpaired; of these:
+    209730 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    22 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_36_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1147529 reads; of these:
+  1147529 (100.00%) were unpaired; of these:
+    1147226 (99.97%) aligned 0 times
+    90 (0.01%) aligned exactly 1 time
+    213 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_36_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+430974 reads; of these:
+  430974 (100.00%) were unpaired; of these:
+    430881 (99.98%) aligned 0 times
+    25 (0.01%) aligned exactly 1 time
+    68 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_37_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+443255 reads; of these:
+  443255 (100.00%) were unpaired; of these:
+    443247 (100.00%) aligned 0 times
+    1 (0.00%) aligned exactly 1 time
+    7 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_37_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+419710 reads; of these:
+  419710 (100.00%) were unpaired; of these:
+    419701 (100.00%) aligned 0 times
+    1 (0.00%) aligned exactly 1 time
+    8 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_37_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+848667 reads; of these:
+  848667 (100.00%) were unpaired; of these:
+    848628 (100.00%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    33 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_37_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+771070 reads; of these:
+  771070 (100.00%) were unpaired; of these:
+    771024 (99.99%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    33 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_38_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+779616 reads; of these:
+  779616 (100.00%) were unpaired; of these:
+    779484 (99.98%) aligned 0 times
+    33 (0.00%) aligned exactly 1 time
+    99 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_38_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+293913 reads; of these:
+  293913 (100.00%) were unpaired; of these:
+    293872 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    36 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_38_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+197958 reads; of these:
+  197958 (100.00%) were unpaired; of these:
+    197933 (99.99%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    18 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_38_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+77621 reads; of these:
+  77621 (100.00%) were unpaired; of these:
+    77609 (99.98%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    7 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_39_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+383658 reads; of these:
+  383658 (100.00%) were unpaired; of these:
+    383634 (99.99%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    18 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_39_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+367222 reads; of these:
+  367222 (100.00%) were unpaired; of these:
+    367208 (100.00%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    10 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_39_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+232918 reads; of these:
+  232918 (100.00%) were unpaired; of these:
+    232879 (99.98%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    32 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_39_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+168605 reads; of these:
+  168605 (100.00%) were unpaired; of these:
+    168588 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    14 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_40_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+1565222 reads; of these:
+  1565222 (100.00%) were unpaired; of these:
+    1565068 (99.99%) aligned 0 times
+    54 (0.00%) aligned exactly 1 time
+    100 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_40_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+1490715 reads; of these:
+  1490715 (100.00%) were unpaired; of these:
+    1490585 (99.99%) aligned 0 times
+    60 (0.00%) aligned exactly 1 time
+    70 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_40_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+768921 reads; of these:
+  768921 (100.00%) were unpaired; of these:
+    768852 (99.99%) aligned 0 times
+    19 (0.00%) aligned exactly 1 time
+    50 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_40_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+737606 reads; of these:
+  737606 (100.00%) were unpaired; of these:
+    737541 (99.99%) aligned 0 times
+    25 (0.00%) aligned exactly 1 time
+    40 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_41_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+922308 reads; of these:
+  922308 (100.00%) were unpaired; of these:
+    922242 (99.99%) aligned 0 times
+    19 (0.00%) aligned exactly 1 time
+    47 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_41_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+883504 reads; of these:
+  883504 (100.00%) were unpaired; of these:
+    883461 (100.00%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    29 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_41_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+294032 reads; of these:
+  294032 (100.00%) were unpaired; of these:
+    294012 (99.99%) aligned 0 times
+    1 (0.00%) aligned exactly 1 time
+    19 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_41_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+264972 reads; of these:
+  264972 (100.00%) were unpaired; of these:
+    264954 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    14 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_42_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+359487 reads; of these:
+  359487 (100.00%) were unpaired; of these:
+    359450 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    29 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_42_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+295230 reads; of these:
+  295230 (100.00%) were unpaired; of these:
+    295191 (99.99%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    26 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_42_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+671835 reads; of these:
+  671835 (100.00%) were unpaired; of these:
+    671633 (99.97%) aligned 0 times
+    47 (0.01%) aligned exactly 1 time
+    155 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_42_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+254550 reads; of these:
+  254550 (100.00%) were unpaired; of these:
+    254475 (99.97%) aligned 0 times
+    23 (0.01%) aligned exactly 1 time
+    52 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_43_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+343172 reads; of these:
+  343172 (100.00%) were unpaired; of these:
+    343143 (99.99%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    27 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_43_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+214614 reads; of these:
+  214614 (100.00%) were unpaired; of these:
+    214593 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    17 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_43_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+555357 reads; of these:
+  555357 (100.00%) were unpaired; of these:
+    555270 (99.98%) aligned 0 times
+    21 (0.00%) aligned exactly 1 time
+    66 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_43_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+299145 reads; of these:
+  299145 (100.00%) were unpaired; of these:
+    299103 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    34 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_44_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+384989 reads; of these:
+  384989 (100.00%) were unpaired; of these:
+    384893 (99.98%) aligned 0 times
+    27 (0.01%) aligned exactly 1 time
+    69 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_44_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+215089 reads; of these:
+  215089 (100.00%) were unpaired; of these:
+    215041 (99.98%) aligned 0 times
+    16 (0.01%) aligned exactly 1 time
+    32 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_45_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+857085 reads; of these:
+  857085 (100.00%) were unpaired; of these:
+    856854 (99.97%) aligned 0 times
+    49 (0.01%) aligned exactly 1 time
+    182 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_45_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+313981 reads; of these:
+  313981 (100.00%) were unpaired; of these:
+    313884 (99.97%) aligned 0 times
+    29 (0.01%) aligned exactly 1 time
+    68 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_46_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+310676 reads; of these:
+  310676 (100.00%) were unpaired; of these:
+    310660 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    12 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_46_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+243853 reads; of these:
+  243853 (100.00%) were unpaired; of these:
+    243840 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    10 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_46_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+512231 reads; of these:
+  512231 (100.00%) were unpaired; of these:
+    512170 (99.99%) aligned 0 times
+    18 (0.00%) aligned exactly 1 time
+    43 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_46_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+290060 reads; of these:
+  290060 (100.00%) were unpaired; of these:
+    290021 (99.99%) aligned 0 times
+    11 (0.00%) aligned exactly 1 time
+    28 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_47_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+513512 reads; of these:
+  513512 (100.00%) were unpaired; of these:
+    513434 (99.98%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    65 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_47_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+268737 reads; of these:
+  268737 (100.00%) were unpaired; of these:
+    268703 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    26 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_47_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1984121 reads; of these:
+  1984121 (100.00%) were unpaired; of these:
+    1983748 (99.98%) aligned 0 times
+    84 (0.00%) aligned exactly 1 time
+    289 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_47_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+743004 reads; of these:
+  743004 (100.00%) were unpaired; of these:
+    742869 (99.98%) aligned 0 times
+    23 (0.00%) aligned exactly 1 time
+    112 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_48_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1248126 reads; of these:
+  1248126 (100.00%) were unpaired; of these:
+    1247968 (99.99%) aligned 0 times
+    32 (0.00%) aligned exactly 1 time
+    126 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_48_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+466438 reads; of these:
+  466438 (100.00%) were unpaired; of these:
+    466363 (99.98%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    61 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_51_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+281135 reads; of these:
+  281135 (100.00%) were unpaired; of these:
+    281084 (99.98%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    36 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_51_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+235953 reads; of these:
+  235953 (100.00%) were unpaired; of these:
+    235924 (99.99%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    16 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_51_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+282814 reads; of these:
+  282814 (100.00%) were unpaired; of these:
+    282766 (99.98%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    35 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_51_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+200450 reads; of these:
+  200450 (100.00%) were unpaired; of these:
+    200423 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    19 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_52_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+614025 reads; of these:
+  614025 (100.00%) were unpaired; of these:
+    613967 (99.99%) aligned 0 times
+    20 (0.00%) aligned exactly 1 time
+    38 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_52_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+509873 reads; of these:
+  509873 (100.00%) were unpaired; of these:
+    509838 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    20 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_52_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+606213 reads; of these:
+  606213 (100.00%) were unpaired; of these:
+    606062 (99.98%) aligned 0 times
+    42 (0.01%) aligned exactly 1 time
+    109 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_52_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+332356 reads; of these:
+  332356 (100.00%) were unpaired; of these:
+    332288 (99.98%) aligned 0 times
+    20 (0.01%) aligned exactly 1 time
+    48 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_53_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+431684 reads; of these:
+  431684 (100.00%) were unpaired; of these:
+    431653 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    23 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_53_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+250493 reads; of these:
+  250493 (100.00%) were unpaired; of these:
+    250479 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    10 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_54_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+344380 reads; of these:
+  344380 (100.00%) were unpaired; of these:
+    344347 (99.99%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    27 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_54_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+309056 reads; of these:
+  309056 (100.00%) were unpaired; of these:
+    309024 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    29 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_54_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+566030 reads; of these:
+  566030 (100.00%) were unpaired; of these:
+    565894 (99.98%) aligned 0 times
+    26 (0.00%) aligned exactly 1 time
+    110 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_54_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+208796 reads; of these:
+  208796 (100.00%) were unpaired; of these:
+    208746 (99.98%) aligned 0 times
+    12 (0.01%) aligned exactly 1 time
+    38 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_55_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1641829 reads; of these:
+  1641829 (100.00%) were unpaired; of these:
+    1641475 (99.98%) aligned 0 times
+    59 (0.00%) aligned exactly 1 time
+    295 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_55_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+608736 reads; of these:
+  608736 (100.00%) were unpaired; of these:
+    608604 (99.98%) aligned 0 times
+    17 (0.00%) aligned exactly 1 time
+    115 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_56_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+329319 reads; of these:
+  329319 (100.00%) were unpaired; of these:
+    329203 (99.96%) aligned 0 times
+    32 (0.01%) aligned exactly 1 time
+    84 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> skin/log50/FA_Sub_56_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+237024 reads; of these:
+  237024 (100.00%) were unpaired; of these:
+    236960 (99.97%) aligned 0 times
+    29 (0.01%) aligned exactly 1 time
+    35 (0.01%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_56_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+337017 reads; of these:
+  337017 (100.00%) were unpaired; of these:
+    336940 (99.98%) aligned 0 times
+    21 (0.01%) aligned exactly 1 time
+    56 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_56_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+188503 reads; of these:
+  188503 (100.00%) were unpaired; of these:
+    188464 (99.98%) aligned 0 times
+    18 (0.01%) aligned exactly 1 time
+    21 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_57_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+771409 reads; of these:
+  771409 (100.00%) were unpaired; of these:
+    771274 (99.98%) aligned 0 times
+    29 (0.00%) aligned exactly 1 time
+    106 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_57_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+279051 reads; of these:
+  279051 (100.00%) were unpaired; of these:
+    279010 (99.99%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    28 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_58_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+11 reads; of these:
+  11 (100.00%) were unpaired; of these:
+    11 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_58_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+5 reads; of these:
+  5 (100.00%) were unpaired; of these:
+    5 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_58_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+197042 reads; of these:
+  197042 (100.00%) were unpaired; of these:
+    197001 (99.98%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    28 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_58_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+114319 reads; of these:
+  114319 (100.00%) were unpaired; of these:
+    114302 (99.99%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    15 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_59_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+285628 reads; of these:
+  285628 (100.00%) were unpaired; of these:
+    285584 (99.98%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    29 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_59_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+205584 reads; of these:
+  205584 (100.00%) were unpaired; of these:
+    205559 (99.99%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    19 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_59_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1481336 reads; of these:
+  1481336 (100.00%) were unpaired; of these:
+    1481028 (99.98%) aligned 0 times
+    75 (0.01%) aligned exactly 1 time
+    233 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_59_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+554532 reads; of these:
+  554532 (100.00%) were unpaired; of these:
+    554433 (99.98%) aligned 0 times
+    31 (0.01%) aligned exactly 1 time
+    68 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_60_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+302587 reads; of these:
+  302587 (100.00%) were unpaired; of these:
+    302560 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    19 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_60_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+273645 reads; of these:
+  273645 (100.00%) were unpaired; of these:
+    273627 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    14 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_60_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+551848 reads; of these:
+  551848 (100.00%) were unpaired; of these:
+    551766 (99.99%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    68 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_60_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+203542 reads; of these:
+  203542 (100.00%) were unpaired; of these:
+    203513 (99.99%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    20 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_61_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+440032 reads; of these:
+  440032 (100.00%) were unpaired; of these:
+    439977 (99.99%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    41 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_61_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+394488 reads; of these:
+  394488 (100.00%) were unpaired; of these:
+    394445 (99.99%) aligned 0 times
+    10 (0.00%) aligned exactly 1 time
+    33 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_61_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+329817 reads; of these:
+  329817 (100.00%) were unpaired; of these:
+    329768 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    34 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_61_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+220000 reads; of these:
+  220000 (100.00%) were unpaired; of these:
+    219964 (99.98%) aligned 0 times
+    18 (0.01%) aligned exactly 1 time
+    18 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_62_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+495594 reads; of these:
+  495594 (100.00%) were unpaired; of these:
+    495505 (99.98%) aligned 0 times
+    25 (0.01%) aligned exactly 1 time
+    64 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_62_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+286962 reads; of these:
+  286962 (100.00%) were unpaired; of these:
+    286915 (99.98%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    32 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_63_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+493871 reads; of these:
+  493871 (100.00%) were unpaired; of these:
+    493865 (100.00%) aligned 0 times
+    1 (0.00%) aligned exactly 1 time
+    5 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_63_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+469724 reads; of these:
+  469724 (100.00%) were unpaired; of these:
+    469719 (100.00%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    3 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_63_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+495068 reads; of these:
+  495068 (100.00%) were unpaired; of these:
+    495061 (100.00%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    4 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_63_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+470401 reads; of these:
+  470401 (100.00%) were unpaired; of these:
+    470392 (100.00%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    7 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_64_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+611296 reads; of these:
+  611296 (100.00%) were unpaired; of these:
+    611178 (99.98%) aligned 0 times
+    29 (0.00%) aligned exactly 1 time
+    89 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_64_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+225775 reads; of these:
+  225775 (100.00%) were unpaired; of these:
+    225724 (99.98%) aligned 0 times
+    16 (0.01%) aligned exactly 1 time
+    35 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_64_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1070562 reads; of these:
+  1070562 (100.00%) were unpaired; of these:
+    1070273 (99.97%) aligned 0 times
+    74 (0.01%) aligned exactly 1 time
+    215 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_64_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+409454 reads; of these:
+  409454 (100.00%) were unpaired; of these:
+    409340 (99.97%) aligned 0 times
+    27 (0.01%) aligned exactly 1 time
+    87 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_65_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+536059 reads; of these:
+  536059 (100.00%) were unpaired; of these:
+    535997 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    47 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_65_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+202478 reads; of these:
+  202478 (100.00%) were unpaired; of these:
+    202457 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    18 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_66_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+579786 reads; of these:
+  579786 (100.00%) were unpaired; of these:
+    579660 (99.98%) aligned 0 times
+    33 (0.01%) aligned exactly 1 time
+    93 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_66_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+218768 reads; of these:
+  218768 (100.00%) were unpaired; of these:
+    218726 (99.98%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    33 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_67_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+613979 reads; of these:
+  613979 (100.00%) were unpaired; of these:
+    613882 (99.98%) aligned 0 times
+    27 (0.00%) aligned exactly 1 time
+    70 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_67_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+232437 reads; of these:
+  232437 (100.00%) were unpaired; of these:
+    232396 (99.98%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    32 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_68_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+281349 reads; of these:
+  281349 (100.00%) were unpaired; of these:
+    281286 (99.98%) aligned 0 times
+    18 (0.01%) aligned exactly 1 time
+    45 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_68_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+212952 reads; of these:
+  212952 (100.00%) were unpaired; of these:
+    212918 (99.98%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    21 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_68_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+585088 reads; of these:
+  585088 (100.00%) were unpaired; of these:
+    584978 (99.98%) aligned 0 times
+    30 (0.01%) aligned exactly 1 time
+    80 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_68_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+318174 reads; of these:
+  318174 (100.00%) were unpaired; of these:
+    318118 (99.98%) aligned 0 times
+    17 (0.01%) aligned exactly 1 time
+    39 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_69_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+350248 reads; of these:
+  350248 (100.00%) were unpaired; of these:
+    350203 (99.99%) aligned 0 times
+    12 (0.00%) aligned exactly 1 time
+    33 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_69_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+305379 reads; of these:
+  305379 (100.00%) were unpaired; of these:
+    305344 (99.99%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    26 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_69_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+463020 reads; of these:
+  463020 (100.00%) were unpaired; of these:
+    462917 (99.98%) aligned 0 times
+    35 (0.01%) aligned exactly 1 time
+    68 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_69_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+265843 reads; of these:
+  265843 (100.00%) were unpaired; of these:
+    265796 (99.98%) aligned 0 times
+    21 (0.01%) aligned exactly 1 time
+    26 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_70_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+254536 reads; of these:
+  254536 (100.00%) were unpaired; of these:
+    254504 (99.99%) aligned 0 times
+    12 (0.00%) aligned exactly 1 time
+    20 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_70_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+232073 reads; of these:
+  232073 (100.00%) were unpaired; of these:
+    232050 (99.99%) aligned 0 times
+    6 (0.00%) aligned exactly 1 time
+    17 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_70_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+403560 reads; of these:
+  403560 (100.00%) were unpaired; of these:
+    403473 (99.98%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    73 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_70_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+278471 reads; of these:
+  278471 (100.00%) were unpaired; of these:
+    278412 (99.98%) aligned 0 times
+    18 (0.01%) aligned exactly 1 time
+    41 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_71_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+461909 reads; of these:
+  461909 (100.00%) were unpaired; of these:
+    461827 (99.98%) aligned 0 times
+    21 (0.00%) aligned exactly 1 time
+    61 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_71_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+312616 reads; of these:
+  312616 (100.00%) were unpaired; of these:
+    312578 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    23 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_71_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+453561 reads; of these:
+  453561 (100.00%) were unpaired; of these:
+    453481 (99.98%) aligned 0 times
+    18 (0.00%) aligned exactly 1 time
+    62 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_71_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+268489 reads; of these:
+  268489 (100.00%) were unpaired; of these:
+    268447 (99.98%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    33 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_73_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+372217 reads; of these:
+  372217 (100.00%) were unpaired; of these:
+    372177 (99.99%) aligned 0 times
+    11 (0.00%) aligned exactly 1 time
+    29 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_73_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+342348 reads; of these:
+  342348 (100.00%) were unpaired; of these:
+    342325 (99.99%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    14 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_74_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+242485 reads; of these:
+  242485 (100.00%) were unpaired; of these:
+    242456 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    24 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_74_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+218232 reads; of these:
+  218232 (100.00%) were unpaired; of these:
+    218202 (99.99%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    23 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_74_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+261459 reads; of these:
+  261459 (100.00%) were unpaired; of these:
+    261414 (99.98%) aligned 0 times
+    10 (0.00%) aligned exactly 1 time
+    35 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_74_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+175449 reads; of these:
+  175449 (100.00%) were unpaired; of these:
+    175414 (99.98%) aligned 0 times
+    9 (0.01%) aligned exactly 1 time
+    26 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_75_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+434710 reads; of these:
+  434710 (100.00%) were unpaired; of these:
+    434687 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    20 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_75_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+413474 reads; of these:
+  413474 (100.00%) were unpaired; of these:
+    413462 (100.00%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    8 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_75_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+292988 reads; of these:
+  292988 (100.00%) were unpaired; of these:
+    292935 (99.98%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    46 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_75_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+223830 reads; of these:
+  223830 (100.00%) were unpaired; of these:
+    223796 (99.98%) aligned 0 times
+    10 (0.00%) aligned exactly 1 time
+    24 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_76_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+268500 reads; of these:
+  268500 (100.00%) were unpaired; of these:
+    268442 (99.98%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    43 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_76_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+218025 reads; of these:
+  218025 (100.00%) were unpaired; of these:
+    217984 (99.98%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    33 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_76_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+480047 reads; of these:
+  480047 (100.00%) were unpaired; of these:
+    479949 (99.98%) aligned 0 times
+    24 (0.00%) aligned exactly 1 time
+    74 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_76_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+264353 reads; of these:
+  264353 (100.00%) were unpaired; of these:
+    264292 (99.98%) aligned 0 times
+    23 (0.01%) aligned exactly 1 time
+    38 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_77_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+1176360 reads; of these:
+  1176360 (100.00%) were unpaired; of these:
+    1176001 (99.97%) aligned 0 times
+    114 (0.01%) aligned exactly 1 time
+    245 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_77_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+440981 reads; of these:
+  440981 (100.00%) were unpaired; of these:
+    440882 (99.98%) aligned 0 times
+    26 (0.01%) aligned exactly 1 time
+    73 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_78_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+238578 reads; of these:
+  238578 (100.00%) were unpaired; of these:
+    238553 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    22 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_78_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+199602 reads; of these:
+  199602 (100.00%) were unpaired; of these:
+    199588 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    10 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_78_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+508455 reads; of these:
+  508455 (100.00%) were unpaired; of these:
+    508408 (99.99%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    38 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_78_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+472845 reads; of these:
+  472845 (100.00%) were unpaired; of these:
+    472810 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    32 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_79_Les_R1.fq_trim50.fastq_synthetic16S.log <==
+475512 reads; of these:
+  475512 (100.00%) were unpaired; of these:
+    475512 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_79_Les_R2.fq_trim50.fastq_synthetic16S.log <==
+453252 reads; of these:
+  453252 (100.00%) were unpaired; of these:
+    453244 (100.00%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    5 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_79_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+207544 reads; of these:
+  207544 (100.00%) were unpaired; of these:
+    207523 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    16 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_79_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+164567 reads; of these:
+  164567 (100.00%) were unpaired; of these:
+    164551 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    11 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_80_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+518331 reads; of these:
+  518331 (100.00%) were unpaired; of these:
+    518214 (99.98%) aligned 0 times
+    30 (0.01%) aligned exactly 1 time
+    87 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_80_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+516035 reads; of these:
+  516035 (100.00%) were unpaired; of these:
+    515916 (99.98%) aligned 0 times
+    36 (0.01%) aligned exactly 1 time
+    83 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_81_L_R1.fq_trim50.fastq_synthetic16S.log <==
+705573 reads; of these:
+  705573 (100.00%) were unpaired; of these:
+    705559 (100.00%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    10 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_81_L_R2.fq_trim50.fastq_synthetic16S.log <==
+703113 reads; of these:
+  703113 (100.00%) were unpaired; of these:
+    703096 (100.00%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    13 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_81_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+394832 reads; of these:
+  394832 (100.00%) were unpaired; of these:
+    394750 (99.98%) aligned 0 times
+    19 (0.00%) aligned exactly 1 time
+    63 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_81_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+393120 reads; of these:
+  393120 (100.00%) were unpaired; of these:
+    393050 (99.98%) aligned 0 times
+    17 (0.00%) aligned exactly 1 time
+    53 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_82_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+526176 reads; of these:
+  526176 (100.00%) were unpaired; of these:
+    526111 (99.99%) aligned 0 times
+    9 (0.00%) aligned exactly 1 time
+    56 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_82_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+523234 reads; of these:
+  523234 (100.00%) were unpaired; of these:
+    523157 (99.99%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    63 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_83_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+548758 reads; of these:
+  548758 (100.00%) were unpaired; of these:
+    548664 (99.98%) aligned 0 times
+    14 (0.00%) aligned exactly 1 time
+    80 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_83_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+545784 reads; of these:
+  545784 (100.00%) were unpaired; of these:
+    545701 (99.98%) aligned 0 times
+    19 (0.00%) aligned exactly 1 time
+    64 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_84_L_R1.fq_trim50.fastq_synthetic16S.log <==
+181460 reads; of these:
+  181460 (100.00%) were unpaired; of these:
+    181429 (99.98%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    26 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_84_L_R2.fq_trim50.fastq_synthetic16S.log <==
+179298 reads; of these:
+  179298 (100.00%) were unpaired; of these:
+    179275 (99.99%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    16 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_84_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+444299 reads; of these:
+  444299 (100.00%) were unpaired; of these:
+    444228 (99.98%) aligned 0 times
+    17 (0.00%) aligned exactly 1 time
+    54 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_84_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+441020 reads; of these:
+  441020 (100.00%) were unpaired; of these:
+    440959 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    46 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_85_L_R1.fq_trim50.fastq_synthetic16S.log <==
+456223 reads; of these:
+  456223 (100.00%) were unpaired; of these:
+    456178 (99.99%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    32 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_85_L_R2.fq_trim50.fastq_synthetic16S.log <==
+452501 reads; of these:
+  452501 (100.00%) were unpaired; of these:
+    452475 (99.99%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    19 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_85_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+511981 reads; of these:
+  511981 (100.00%) were unpaired; of these:
+    511931 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    35 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_85_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+509104 reads; of these:
+  509104 (100.00%) were unpaired; of these:
+    509058 (99.99%) aligned 0 times
+    10 (0.00%) aligned exactly 1 time
+    36 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_86_L_R1.fq_trim50.fastq_synthetic16S.log <==
+140921 reads; of these:
+  140921 (100.00%) were unpaired; of these:
+    140891 (99.98%) aligned 0 times
+    9 (0.01%) aligned exactly 1 time
+    21 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_86_L_R2.fq_trim50.fastq_synthetic16S.log <==
+139765 reads; of these:
+  139765 (100.00%) were unpaired; of these:
+    139746 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    14 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_86_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+154694 reads; of these:
+  154694 (100.00%) were unpaired; of these:
+    154673 (99.99%) aligned 0 times
+    5 (0.00%) aligned exactly 1 time
+    16 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_86_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+153617 reads; of these:
+  153617 (100.00%) were unpaired; of these:
+    153578 (99.97%) aligned 0 times
+    10 (0.01%) aligned exactly 1 time
+    29 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> skin/log50/FA_Sub_87_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+425229 reads; of these:
+  425229 (100.00%) were unpaired; of these:
+    425159 (99.98%) aligned 0 times
+    21 (0.00%) aligned exactly 1 time
+    49 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_87_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+421536 reads; of these:
+  421536 (100.00%) were unpaired; of these:
+    421457 (99.98%) aligned 0 times
+    25 (0.01%) aligned exactly 1 time
+    54 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_88_L_R1.fq_trim50.fastq_synthetic16S.log <==
+463766 reads; of these:
+  463766 (100.00%) were unpaired; of these:
+    463710 (99.99%) aligned 0 times
+    16 (0.00%) aligned exactly 1 time
+    40 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_88_L_R2.fq_trim50.fastq_synthetic16S.log <==
+460660 reads; of these:
+  460660 (100.00%) were unpaired; of these:
+    460604 (99.99%) aligned 0 times
+    17 (0.00%) aligned exactly 1 time
+    39 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_88_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+456754 reads; of these:
+  456754 (100.00%) were unpaired; of these:
+    456695 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    51 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_88_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+454064 reads; of these:
+  454064 (100.00%) were unpaired; of these:
+    454014 (99.99%) aligned 0 times
+    12 (0.00%) aligned exactly 1 time
+    38 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_89_L_R1.fq_trim50.fastq_synthetic16S.log <==
+108634 reads; of these:
+  108634 (100.00%) were unpaired; of these:
+    108618 (99.99%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    14 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_89_L_R2.fq_trim50.fastq_synthetic16S.log <==
+106743 reads; of these:
+  106743 (100.00%) were unpaired; of these:
+    106729 (99.99%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    10 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_89_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+103107 reads; of these:
+  103107 (100.00%) were unpaired; of these:
+    103090 (99.98%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    13 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_89_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+100762 reads; of these:
+  100762 (100.00%) were unpaired; of these:
+    100746 (99.98%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    13 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_90_L_R1.fq_trim50.fastq_synthetic16S.log <==
+120596 reads; of these:
+  120596 (100.00%) were unpaired; of these:
+    120586 (99.99%) aligned 0 times
+    2 (0.00%) aligned exactly 1 time
+    8 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_90_L_R2.fq_trim50.fastq_synthetic16S.log <==
+118863 reads; of these:
+  118863 (100.00%) were unpaired; of these:
+    118857 (99.99%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    6 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_90_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+408548 reads; of these:
+  408548 (100.00%) were unpaired; of these:
+    408519 (99.99%) aligned 0 times
+    11 (0.00%) aligned exactly 1 time
+    18 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_90_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+405670 reads; of these:
+  405670 (100.00%) were unpaired; of these:
+    405635 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    27 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_92_L_R1.fq_trim50.fastq_synthetic16S.log <==
+450049 reads; of these:
+  450049 (100.00%) were unpaired; of these:
+    449985 (99.99%) aligned 0 times
+    18 (0.00%) aligned exactly 1 time
+    46 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_92_L_R2.fq_trim50.fastq_synthetic16S.log <==
+447311 reads; of these:
+  447311 (100.00%) were unpaired; of these:
+    447240 (99.98%) aligned 0 times
+    19 (0.00%) aligned exactly 1 time
+    52 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_92_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+477720 reads; of these:
+  477720 (100.00%) were unpaired; of these:
+    477670 (99.99%) aligned 0 times
+    8 (0.00%) aligned exactly 1 time
+    42 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_92_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+475140 reads; of these:
+  475140 (100.00%) were unpaired; of these:
+    475088 (99.99%) aligned 0 times
+    10 (0.00%) aligned exactly 1 time
+    42 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_93_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+487675 reads; of these:
+  487675 (100.00%) were unpaired; of these:
+    487584 (99.98%) aligned 0 times
+    28 (0.01%) aligned exactly 1 time
+    63 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_93_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+485588 reads; of these:
+  485588 (100.00%) were unpaired; of these:
+    485493 (99.98%) aligned 0 times
+    25 (0.01%) aligned exactly 1 time
+    70 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_94_L_R1.fq_trim50.fastq_synthetic16S.log <==
+576111 reads; of these:
+  576111 (100.00%) were unpaired; of these:
+    576102 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    9 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_94_L_R2.fq_trim50.fastq_synthetic16S.log <==
+574302 reads; of these:
+  574302 (100.00%) were unpaired; of these:
+    574291 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    11 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_94_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+435312 reads; of these:
+  435312 (100.00%) were unpaired; of these:
+    435257 (99.99%) aligned 0 times
+    13 (0.00%) aligned exactly 1 time
+    42 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_94_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+432214 reads; of these:
+  432214 (100.00%) were unpaired; of these:
+    432166 (99.99%) aligned 0 times
+    15 (0.00%) aligned exactly 1 time
+    33 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_95_L_R1.fq_trim50.fastq_synthetic16S.log <==
+491968 reads; of these:
+  491968 (100.00%) were unpaired; of these:
+    491943 (99.99%) aligned 0 times
+    12 (0.00%) aligned exactly 1 time
+    13 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_95_L_R2.fq_trim50.fastq_synthetic16S.log <==
+489641 reads; of these:
+  489641 (100.00%) were unpaired; of these:
+    489629 (100.00%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    8 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_95_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+163681 reads; of these:
+  163681 (100.00%) were unpaired; of these:
+    163669 (99.99%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    9 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> skin/log50/FA_Sub_95_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+160736 reads; of these:
+  160736 (100.00%) were unpaired; of these:
+    160731 (100.00%) aligned 0 times
+    1 (0.00%) aligned exactly 1 time
+    4 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> skin/log50/FA_Sub_96_NL_R1.fq_trim50.fastq_synthetic16S.log <==
+173515 reads; of these:
+  173515 (100.00%) were unpaired; of these:
+    173486 (99.98%) aligned 0 times
+    4 (0.00%) aligned exactly 1 time
+    25 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> skin/log50/FA_Sub_96_NL_R2.fq_trim50.fastq_synthetic16S.log <==
+171431 reads; of these:
+  171431 (100.00%) were unpaired; of these:
+    171395 (99.98%) aligned 0 times
+    7 (0.00%) aligned exactly 1 time
+    29 (0.02%) aligned >1 times
+0.02% overall alignment rate

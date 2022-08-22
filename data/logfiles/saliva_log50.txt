@@ -1,0 +1,1535 @@
+==> saliva/log50/A1_lyPMA_S769_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1414185 reads; of these:
+  1414185 (100.00%) were unpaired; of these:
+    1413652 (99.96%) aligned 0 times
+    206 (0.01%) aligned exactly 1 time
+    327 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A1_lyPMA_S769_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1413877 reads; of these:
+  1413877 (100.00%) were unpaired; of these:
+    1413352 (99.96%) aligned 0 times
+    213 (0.02%) aligned exactly 1 time
+    312 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A2_lyPMA_S770_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+172261 reads; of these:
+  172261 (100.00%) were unpaired; of these:
+    172210 (99.97%) aligned 0 times
+    19 (0.01%) aligned exactly 1 time
+    32 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/A2_lyPMA_S770_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+172108 reads; of these:
+  172108 (100.00%) were unpaired; of these:
+    172044 (99.96%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    49 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A3_lyPMA_S771_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2930921 reads; of these:
+  2930921 (100.00%) were unpaired; of these:
+    2929802 (99.96%) aligned 0 times
+    341 (0.01%) aligned exactly 1 time
+    778 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A3_lyPMA_S771_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2929312 reads; of these:
+  2929312 (100.00%) were unpaired; of these:
+    2928196 (99.96%) aligned 0 times
+    334 (0.01%) aligned exactly 1 time
+    782 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A4_lyPMA2_S818_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2461 reads; of these:
+  2461 (100.00%) were unpaired; of these:
+    2460 (99.96%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    1 (0.04%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A4_lyPMA2_S818_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2459 reads; of these:
+  2459 (100.00%) were unpaired; of these:
+    2459 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/A5_lyPMA_S772_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+739296 reads; of these:
+  739296 (100.00%) were unpaired; of these:
+    738933 (99.95%) aligned 0 times
+    78 (0.01%) aligned exactly 1 time
+    285 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/A5_lyPMA_S772_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+738360 reads; of these:
+  738360 (100.00%) were unpaired; of these:
+    737960 (99.95%) aligned 0 times
+    115 (0.02%) aligned exactly 1 time
+    285 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/A6_lyPMA_S773_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1097625 reads; of these:
+  1097625 (100.00%) were unpaired; of these:
+    1097178 (99.96%) aligned 0 times
+    119 (0.01%) aligned exactly 1 time
+    328 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A6_lyPMA_S773_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1096961 reads; of these:
+  1096961 (100.00%) were unpaired; of these:
+    1096505 (99.96%) aligned 0 times
+    109 (0.01%) aligned exactly 1 time
+    347 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A7_lyPMA_S774_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+928850 reads; of these:
+  928850 (100.00%) were unpaired; of these:
+    928376 (99.95%) aligned 0 times
+    114 (0.01%) aligned exactly 1 time
+    360 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/A7_lyPMA_S774_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+927728 reads; of these:
+  927728 (100.00%) were unpaired; of these:
+    927232 (99.95%) aligned 0 times
+    113 (0.01%) aligned exactly 1 time
+    383 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/A8_lyPMA_S775_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+720355 reads; of these:
+  720355 (100.00%) were unpaired; of these:
+    720080 (99.96%) aligned 0 times
+    78 (0.01%) aligned exactly 1 time
+    197 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A8_lyPMA_S775_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+720121 reads; of these:
+  720121 (100.00%) were unpaired; of these:
+    719819 (99.96%) aligned 0 times
+    84 (0.01%) aligned exactly 1 time
+    218 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/A9_lyPMA_S776_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+557508 reads; of these:
+  557508 (100.00%) were unpaired; of these:
+    557253 (99.95%) aligned 0 times
+    54 (0.01%) aligned exactly 1 time
+    201 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/A9_lyPMA_S776_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+557007 reads; of these:
+  557007 (100.00%) were unpaired; of these:
+    556745 (99.95%) aligned 0 times
+    61 (0.01%) aligned exactly 1 time
+    201 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B1_lyPMA_S777_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+162 reads; of these:
+  162 (100.00%) were unpaired; of these:
+    162 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/B1_lyPMA_S777_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+162 reads; of these:
+  162 (100.00%) were unpaired; of these:
+    162 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/B2_lyPMA_S819_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+320210 reads; of these:
+  320210 (100.00%) were unpaired; of these:
+    320051 (99.95%) aligned 0 times
+    27 (0.01%) aligned exactly 1 time
+    132 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B2_lyPMA_S819_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+319874 reads; of these:
+  319874 (100.00%) were unpaired; of these:
+    319719 (99.95%) aligned 0 times
+    26 (0.01%) aligned exactly 1 time
+    129 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B3_lyPMA_S820_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+103099 reads; of these:
+  103099 (100.00%) were unpaired; of these:
+    103048 (99.95%) aligned 0 times
+    8 (0.01%) aligned exactly 1 time
+    43 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B3_lyPMA_S820_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+102966 reads; of these:
+  102966 (100.00%) were unpaired; of these:
+    102919 (99.95%) aligned 0 times
+    11 (0.01%) aligned exactly 1 time
+    36 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B4_lyPMA_S821_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+434856 reads; of these:
+  434856 (100.00%) were unpaired; of these:
+    434615 (99.94%) aligned 0 times
+    52 (0.01%) aligned exactly 1 time
+    189 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/B4_lyPMA_S821_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+434386 reads; of these:
+  434386 (100.00%) were unpaired; of these:
+    434169 (99.95%) aligned 0 times
+    49 (0.01%) aligned exactly 1 time
+    168 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B5_lyPMA_S778_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+3395635 reads; of these:
+  3395635 (100.00%) were unpaired; of these:
+    3393957 (99.95%) aligned 0 times
+    341 (0.01%) aligned exactly 1 time
+    1337 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/B5_lyPMA_S778_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+3391966 reads; of these:
+  3391966 (100.00%) were unpaired; of these:
+    3390460 (99.96%) aligned 0 times
+    286 (0.01%) aligned exactly 1 time
+    1220 (0.04%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/B6_lyPMA_S822_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1628447 reads; of these:
+  1628447 (100.00%) were unpaired; of these:
+    1627797 (99.96%) aligned 0 times
+    177 (0.01%) aligned exactly 1 time
+    473 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/B6_lyPMA_S822_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1627250 reads; of these:
+  1627250 (100.00%) were unpaired; of these:
+    1626644 (99.96%) aligned 0 times
+    152 (0.01%) aligned exactly 1 time
+    454 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/B7_lyPMA_S779_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+173715 reads; of these:
+  173715 (100.00%) were unpaired; of these:
+    173639 (99.96%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    63 (0.04%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/B7_lyPMA_S779_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+173591 reads; of these:
+  173591 (100.00%) were unpaired; of these:
+    173488 (99.94%) aligned 0 times
+    19 (0.01%) aligned exactly 1 time
+    84 (0.05%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/B8_lyPMA_S823_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+36236 reads; of these:
+  36236 (100.00%) were unpaired; of these:
+    36223 (99.96%) aligned 0 times
+    4 (0.01%) aligned exactly 1 time
+    9 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/B8_lyPMA_S823_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+36199 reads; of these:
+  36199 (100.00%) were unpaired; of these:
+    36188 (99.97%) aligned 0 times
+    2 (0.01%) aligned exactly 1 time
+    9 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/B9_lyPMA2_S824_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+167 reads; of these:
+  167 (100.00%) were unpaired; of these:
+    167 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/B9_lyPMA2_S824_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+167 reads; of these:
+  167 (100.00%) were unpaired; of these:
+    167 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK1_23K_S862_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+907 reads; of these:
+  907 (100.00%) were unpaired; of these:
+    907 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK1_23K_S862_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+905 reads; of these:
+  905 (100.00%) were unpaired; of these:
+    905 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK1_23M_S863_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2459 reads; of these:
+  2459 (100.00%) were unpaired; of these:
+    2459 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK1_23M_S863_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2453 reads; of these:
+  2453 (100.00%) were unpaired; of these:
+    2453 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK1_23O_S864_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1037 reads; of these:
+  1037 (100.00%) were unpaired; of these:
+    1037 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK1_23O_S864_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1037 reads; of these:
+  1037 (100.00%) were unpaired; of these:
+    1037 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_B7_lyPMA_S816_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+644 reads; of these:
+  644 (100.00%) were unpaired; of these:
+    644 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_B7_lyPMA_S816_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+644 reads; of these:
+  644 (100.00%) were unpaired; of these:
+    643 (99.84%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    1 (0.16%) aligned >1 times
+0.16% overall alignment rate
+
+==> saliva/log50/BLANK_D3_lyPMA_S817_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+69 reads; of these:
+  69 (100.00%) were unpaired; of these:
+    69 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_D3_lyPMA_S817_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+69 reads; of these:
+  69 (100.00%) were unpaired; of these:
+    69 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_E5_lyPMA2_S860_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+141 reads; of these:
+  141 (100.00%) were unpaired; of these:
+    141 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_E5_lyPMA2_S860_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+142 reads; of these:
+  142 (100.00%) were unpaired; of these:
+    142 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_G10_lyPMA2_S861_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+247 reads; of these:
+  247 (100.00%) were unpaired; of these:
+    247 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/BLANK_G10_lyPMA2_S861_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+247 reads; of these:
+  247 (100.00%) were unpaired; of these:
+    247 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/C1_lyPMA_S825_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1079938 reads; of these:
+  1079938 (100.00%) were unpaired; of these:
+    1079486 (99.96%) aligned 0 times
+    103 (0.01%) aligned exactly 1 time
+    349 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/C1_lyPMA_S825_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1079466 reads; of these:
+  1079466 (100.00%) were unpaired; of these:
+    1078960 (99.95%) aligned 0 times
+    133 (0.01%) aligned exactly 1 time
+    373 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/C2_lyPMA2_S826_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+31030 reads; of these:
+  31030 (100.00%) were unpaired; of these:
+    31030 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/C2_lyPMA2_S826_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+31014 reads; of these:
+  31014 (100.00%) were unpaired; of these:
+    31014 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/C3_lyPMA_S827_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+43145 reads; of these:
+  43145 (100.00%) were unpaired; of these:
+    43121 (99.94%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    19 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/C3_lyPMA_S827_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+43078 reads; of these:
+  43078 (100.00%) were unpaired; of these:
+    43047 (99.93%) aligned 0 times
+    6 (0.01%) aligned exactly 1 time
+    25 (0.06%) aligned >1 times
+0.07% overall alignment rate
+
+==> saliva/log50/C4_lyPMA_S780_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+69135 reads; of these:
+  69135 (100.00%) were unpaired; of these:
+    69093 (99.94%) aligned 0 times
+    8 (0.01%) aligned exactly 1 time
+    34 (0.05%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/C4_lyPMA_S780_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+69043 reads; of these:
+  69043 (100.00%) were unpaired; of these:
+    69021 (99.97%) aligned 0 times
+    7 (0.01%) aligned exactly 1 time
+    15 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/C5_lyPMA2_S828_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+6484 reads; of these:
+  6484 (100.00%) were unpaired; of these:
+    6480 (99.94%) aligned 0 times
+    1 (0.02%) aligned exactly 1 time
+    3 (0.05%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/C5_lyPMA2_S828_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+6479 reads; of these:
+  6479 (100.00%) were unpaired; of these:
+    6474 (99.92%) aligned 0 times
+    1 (0.02%) aligned exactly 1 time
+    4 (0.06%) aligned >1 times
+0.08% overall alignment rate
+
+==> saliva/log50/C6_lyPMA_S781_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+843266 reads; of these:
+  843266 (100.00%) were unpaired; of these:
+    842885 (99.95%) aligned 0 times
+    106 (0.01%) aligned exactly 1 time
+    275 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/C6_lyPMA_S781_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+842380 reads; of these:
+  842380 (100.00%) were unpaired; of these:
+    842002 (99.96%) aligned 0 times
+    125 (0.01%) aligned exactly 1 time
+    253 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/C7_lyPMA_S782_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+98068 reads; of these:
+  98068 (100.00%) were unpaired; of these:
+    98023 (99.95%) aligned 0 times
+    7 (0.01%) aligned exactly 1 time
+    38 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/C7_lyPMA_S782_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+97967 reads; of these:
+  97967 (100.00%) were unpaired; of these:
+    97925 (99.96%) aligned 0 times
+    11 (0.01%) aligned exactly 1 time
+    31 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/C8_lyPMA2_S829_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+11226 reads; of these:
+  11226 (100.00%) were unpaired; of these:
+    11225 (99.99%) aligned 0 times
+    1 (0.01%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> saliva/log50/C8_lyPMA2_S829_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+11218 reads; of these:
+  11218 (100.00%) were unpaired; of these:
+    11214 (99.96%) aligned 0 times
+    2 (0.02%) aligned exactly 1 time
+    2 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/C9_lyPMA_S783_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+716488 reads; of these:
+  716488 (100.00%) were unpaired; of these:
+    716124 (99.95%) aligned 0 times
+    65 (0.01%) aligned exactly 1 time
+    299 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/C9_lyPMA_S783_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+715864 reads; of these:
+  715864 (100.00%) were unpaired; of these:
+    715523 (99.95%) aligned 0 times
+    77 (0.01%) aligned exactly 1 time
+    264 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/D1_lyPMA_S784_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1941633 reads; of these:
+  1941633 (100.00%) were unpaired; of these:
+    1940882 (99.96%) aligned 0 times
+    239 (0.01%) aligned exactly 1 time
+    512 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/D1_lyPMA_S784_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1940309 reads; of these:
+  1940309 (100.00%) were unpaired; of these:
+    1939601 (99.96%) aligned 0 times
+    242 (0.01%) aligned exactly 1 time
+    466 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/D2_lyPMA_S785_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+421501 reads; of these:
+  421501 (100.00%) were unpaired; of these:
+    421314 (99.96%) aligned 0 times
+    80 (0.02%) aligned exactly 1 time
+    107 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/D2_lyPMA_S785_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+421071 reads; of these:
+  421071 (100.00%) were unpaired; of these:
+    420922 (99.96%) aligned 0 times
+    50 (0.01%) aligned exactly 1 time
+    99 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/D3_lyPMA2_S830_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1877 reads; of these:
+  1877 (100.00%) were unpaired; of these:
+    1876 (99.95%) aligned 0 times
+    1 (0.05%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/D3_lyPMA2_S830_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1875 reads; of these:
+  1875 (100.00%) were unpaired; of these:
+    1873 (99.89%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    2 (0.11%) aligned >1 times
+0.11% overall alignment rate
+
+==> saliva/log50/D4_lyPMA2_S831_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+283 reads; of these:
+  283 (100.00%) were unpaired; of these:
+    283 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/D4_lyPMA2_S831_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+283 reads; of these:
+  283 (100.00%) were unpaired; of these:
+    283 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/D5_lyPMA_S786_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+102634 reads; of these:
+  102634 (100.00%) were unpaired; of these:
+    102577 (99.94%) aligned 0 times
+    19 (0.02%) aligned exactly 1 time
+    38 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/D5_lyPMA_S786_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+102524 reads; of these:
+  102524 (100.00%) were unpaired; of these:
+    102475 (99.95%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    36 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/D6_lyPMA_S832_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+314310 reads; of these:
+  314310 (100.00%) were unpaired; of these:
+    314180 (99.96%) aligned 0 times
+    42 (0.01%) aligned exactly 1 time
+    88 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/D6_lyPMA_S832_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+313968 reads; of these:
+  313968 (100.00%) were unpaired; of these:
+    313825 (99.95%) aligned 0 times
+    40 (0.01%) aligned exactly 1 time
+    103 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/D7_lyPMA_S833_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+361445 reads; of these:
+  361445 (100.00%) were unpaired; of these:
+    361185 (99.93%) aligned 0 times
+    61 (0.02%) aligned exactly 1 time
+    199 (0.06%) aligned >1 times
+0.07% overall alignment rate
+
+==> saliva/log50/D7_lyPMA_S833_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+361132 reads; of these:
+  361132 (100.00%) were unpaired; of these:
+    360893 (99.93%) aligned 0 times
+    52 (0.01%) aligned exactly 1 time
+    187 (0.05%) aligned >1 times
+0.07% overall alignment rate
+
+==> saliva/log50/D8_lyPMA_S834_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+34605 reads; of these:
+  34605 (100.00%) were unpaired; of these:
+    34589 (99.95%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    11 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/D8_lyPMA_S834_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+34564 reads; of these:
+  34564 (100.00%) were unpaired; of these:
+    34547 (99.95%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    12 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/D9_lyPMA2_S835_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+731 reads; of these:
+  731 (100.00%) were unpaired; of these:
+    731 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/D9_lyPMA2_S835_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+730 reads; of these:
+  730 (100.00%) were unpaired; of these:
+    729 (99.86%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    1 (0.14%) aligned >1 times
+0.14% overall alignment rate
+
+==> saliva/log50/E1_lyPMA_S787_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2271065 reads; of these:
+  2271065 (100.00%) were unpaired; of these:
+    2270266 (99.96%) aligned 0 times
+    272 (0.01%) aligned exactly 1 time
+    527 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E1_lyPMA_S787_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2269149 reads; of these:
+  2269149 (100.00%) were unpaired; of these:
+    2268358 (99.97%) aligned 0 times
+    286 (0.01%) aligned exactly 1 time
+    505 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/E2_lyPMA_S788_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1491480 reads; of these:
+  1491480 (100.00%) were unpaired; of these:
+    1490916 (99.96%) aligned 0 times
+    161 (0.01%) aligned exactly 1 time
+    403 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E2_lyPMA_S788_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1490193 reads; of these:
+  1490193 (100.00%) were unpaired; of these:
+    1489652 (99.96%) aligned 0 times
+    148 (0.01%) aligned exactly 1 time
+    393 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E3_lyPMA2_S836_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+592 reads; of these:
+  592 (100.00%) were unpaired; of these:
+    592 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E3_lyPMA2_S836_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+592 reads; of these:
+  592 (100.00%) were unpaired; of these:
+    592 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E4_lyPMA2_S837_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+324 reads; of these:
+  324 (100.00%) were unpaired; of these:
+    324 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E4_lyPMA2_S837_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+324 reads; of these:
+  324 (100.00%) were unpaired; of these:
+    324 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E5_lyPMA_S789_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+148180 reads; of these:
+  148180 (100.00%) were unpaired; of these:
+    148117 (99.96%) aligned 0 times
+    22 (0.01%) aligned exactly 1 time
+    41 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E5_lyPMA_S789_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+148043 reads; of these:
+  148043 (100.00%) were unpaired; of these:
+    148006 (99.98%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    24 (0.02%) aligned >1 times
+0.02% overall alignment rate
+
+==> saliva/log50/E6_lyPMA_S790_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+43830 reads; of these:
+  43830 (100.00%) were unpaired; of these:
+    43818 (99.97%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    7 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/E6_lyPMA_S790_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+43783 reads; of these:
+  43783 (100.00%) were unpaired; of these:
+    43765 (99.96%) aligned 0 times
+    6 (0.01%) aligned exactly 1 time
+    12 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E7_lyPMA2_S838_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+113 reads; of these:
+  113 (100.00%) were unpaired; of these:
+    113 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E7_lyPMA2_S838_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+113 reads; of these:
+  113 (100.00%) were unpaired; of these:
+    113 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E8_lyPMA_S839_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+131858 reads; of these:
+  131858 (100.00%) were unpaired; of these:
+    131799 (99.96%) aligned 0 times
+    10 (0.01%) aligned exactly 1 time
+    49 (0.04%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E8_lyPMA_S839_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+131753 reads; of these:
+  131753 (100.00%) were unpaired; of these:
+    131703 (99.96%) aligned 0 times
+    14 (0.01%) aligned exactly 1 time
+    36 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/E9_lyPMA2_S840_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2110 reads; of these:
+  2110 (100.00%) were unpaired; of these:
+    2110 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/E9_lyPMA2_S840_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2108 reads; of these:
+  2108 (100.00%) were unpaired; of these:
+    2108 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/F1_lyPMA_S791_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1135488 reads; of these:
+  1135488 (100.00%) were unpaired; of these:
+    1135048 (99.96%) aligned 0 times
+    106 (0.01%) aligned exactly 1 time
+    334 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/F1_lyPMA_S791_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1134797 reads; of these:
+  1134797 (100.00%) were unpaired; of these:
+    1134306 (99.96%) aligned 0 times
+    102 (0.01%) aligned exactly 1 time
+    389 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/F2_lyPMA_S841_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+134452 reads; of these:
+  134452 (100.00%) were unpaired; of these:
+    134382 (99.95%) aligned 0 times
+    16 (0.01%) aligned exactly 1 time
+    54 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F2_lyPMA_S841_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+134333 reads; of these:
+  134333 (100.00%) were unpaired; of these:
+    134259 (99.94%) aligned 0 times
+    18 (0.01%) aligned exactly 1 time
+    56 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/F3_lyPMA_S842_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+84869 reads; of these:
+  84869 (100.00%) were unpaired; of these:
+    84819 (99.94%) aligned 0 times
+    13 (0.02%) aligned exactly 1 time
+    37 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/F3_lyPMA_S842_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+84773 reads; of these:
+  84773 (100.00%) were unpaired; of these:
+    84745 (99.97%) aligned 0 times
+    10 (0.01%) aligned exactly 1 time
+    18 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/F4_lyPMA_S792_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+176400 reads; of these:
+  176400 (100.00%) were unpaired; of these:
+    176312 (99.95%) aligned 0 times
+    31 (0.02%) aligned exactly 1 time
+    57 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F4_lyPMA_S792_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+176218 reads; of these:
+  176218 (100.00%) were unpaired; of these:
+    176122 (99.95%) aligned 0 times
+    27 (0.02%) aligned exactly 1 time
+    69 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F5_lyPMA_S793_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+130476 reads; of these:
+  130476 (100.00%) were unpaired; of these:
+    130418 (99.96%) aligned 0 times
+    21 (0.02%) aligned exactly 1 time
+    37 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/F5_lyPMA_S793_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+130348 reads; of these:
+  130348 (100.00%) were unpaired; of these:
+    130284 (99.95%) aligned 0 times
+    14 (0.01%) aligned exactly 1 time
+    50 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F6_lyPMA_S794_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+371858 reads; of these:
+  371858 (100.00%) were unpaired; of these:
+    371659 (99.95%) aligned 0 times
+    37 (0.01%) aligned exactly 1 time
+    162 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F6_lyPMA_S794_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+371524 reads; of these:
+  371524 (100.00%) were unpaired; of these:
+    371348 (99.95%) aligned 0 times
+    35 (0.01%) aligned exactly 1 time
+    141 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F7_lyPMA_S795_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+106491 reads; of these:
+  106491 (100.00%) were unpaired; of these:
+    106464 (99.97%) aligned 0 times
+    7 (0.01%) aligned exactly 1 time
+    20 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/F7_lyPMA_S795_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+106372 reads; of these:
+  106372 (100.00%) were unpaired; of these:
+    106344 (99.97%) aligned 0 times
+    7 (0.01%) aligned exactly 1 time
+    21 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/F8_lyPMA_S796_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+348193 reads; of these:
+  348193 (100.00%) were unpaired; of these:
+    348033 (99.95%) aligned 0 times
+    41 (0.01%) aligned exactly 1 time
+    119 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F8_lyPMA_S796_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+347692 reads; of these:
+  347692 (100.00%) were unpaired; of these:
+    347533 (99.95%) aligned 0 times
+    43 (0.01%) aligned exactly 1 time
+    116 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/F9_lyPMA_S843_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+35250 reads; of these:
+  35250 (100.00%) were unpaired; of these:
+    35236 (99.96%) aligned 0 times
+    6 (0.02%) aligned exactly 1 time
+    8 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/F9_lyPMA_S843_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+35201 reads; of these:
+  35201 (100.00%) were unpaired; of these:
+    35194 (99.98%) aligned 0 times
+    5 (0.01%) aligned exactly 1 time
+    2 (0.01%) aligned >1 times
+0.02% overall alignment rate
+
+==> saliva/log50/G1_lyPMA_S797_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+288042 reads; of these:
+  288042 (100.00%) were unpaired; of these:
+    287888 (99.95%) aligned 0 times
+    41 (0.01%) aligned exactly 1 time
+    113 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/G1_lyPMA_S797_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+287761 reads; of these:
+  287761 (100.00%) were unpaired; of these:
+    287619 (99.95%) aligned 0 times
+    23 (0.01%) aligned exactly 1 time
+    119 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/G2_lyPMA_S798_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2 reads; of these:
+  2 (100.00%) were unpaired; of these:
+    2 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/G2_lyPMA_S798_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2 reads; of these:
+  2 (100.00%) were unpaired; of these:
+    2 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/G3_lyPMA_S799_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+193348 reads; of these:
+  193348 (100.00%) were unpaired; of these:
+    193276 (99.96%) aligned 0 times
+    27 (0.01%) aligned exactly 1 time
+    45 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/G3_lyPMA_S799_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+193168 reads; of these:
+  193168 (100.00%) were unpaired; of these:
+    193104 (99.97%) aligned 0 times
+    25 (0.01%) aligned exactly 1 time
+    39 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/G4_lyPMA_S800_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+91484 reads; of these:
+  91484 (100.00%) were unpaired; of these:
+    91447 (99.96%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    24 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/G4_lyPMA_S800_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+91335 reads; of these:
+  91335 (100.00%) were unpaired; of these:
+    91302 (99.96%) aligned 0 times
+    12 (0.01%) aligned exactly 1 time
+    21 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/G5_lyPMA_S801_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+140726 reads; of these:
+  140726 (100.00%) were unpaired; of these:
+    140675 (99.96%) aligned 0 times
+    22 (0.02%) aligned exactly 1 time
+    29 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/G5_lyPMA_S801_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+140526 reads; of these:
+  140526 (100.00%) were unpaired; of these:
+    140461 (99.95%) aligned 0 times
+    20 (0.01%) aligned exactly 1 time
+    45 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/G6_lyPMA2_S844_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+93 reads; of these:
+  93 (100.00%) were unpaired; of these:
+    93 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/G6_lyPMA2_S844_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+93 reads; of these:
+  93 (100.00%) were unpaired; of these:
+    93 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/G7_lyPMA_S802_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1077407 reads; of these:
+  1077407 (100.00%) were unpaired; of these:
+    1076964 (99.96%) aligned 0 times
+    150 (0.01%) aligned exactly 1 time
+    293 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/G7_lyPMA_S802_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1076258 reads; of these:
+  1076258 (100.00%) were unpaired; of these:
+    1075847 (99.96%) aligned 0 times
+    137 (0.01%) aligned exactly 1 time
+    274 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/G8_lyPMA_S845_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+414946 reads; of these:
+  414946 (100.00%) were unpaired; of these:
+    414754 (99.95%) aligned 0 times
+    59 (0.01%) aligned exactly 1 time
+    133 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/G8_lyPMA_S845_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+414433 reads; of these:
+  414433 (100.00%) were unpaired; of these:
+    414255 (99.96%) aligned 0 times
+    54 (0.01%) aligned exactly 1 time
+    124 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H1_lyPMA_S803_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+834487 reads; of these:
+  834487 (100.00%) were unpaired; of these:
+    834129 (99.96%) aligned 0 times
+    109 (0.01%) aligned exactly 1 time
+    249 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H1_lyPMA_S803_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+833650 reads; of these:
+  833650 (100.00%) were unpaired; of these:
+    833327 (99.96%) aligned 0 times
+    100 (0.01%) aligned exactly 1 time
+    223 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H2_lyPMA_S804_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+18726 reads; of these:
+  18726 (100.00%) were unpaired; of these:
+    18716 (99.95%) aligned 0 times
+    4 (0.02%) aligned exactly 1 time
+    6 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/H2_lyPMA_S804_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+18711 reads; of these:
+  18711 (100.00%) were unpaired; of these:
+    18699 (99.94%) aligned 0 times
+    4 (0.02%) aligned exactly 1 time
+    8 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/H3_lyPMA_S805_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+107880 reads; of these:
+  107880 (100.00%) were unpaired; of these:
+    107835 (99.96%) aligned 0 times
+    17 (0.02%) aligned exactly 1 time
+    28 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H3_lyPMA_S805_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+107696 reads; of these:
+  107696 (100.00%) were unpaired; of these:
+    107657 (99.96%) aligned 0 times
+    13 (0.01%) aligned exactly 1 time
+    26 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H4_lyPMA_S806_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+398334 reads; of these:
+  398334 (100.00%) were unpaired; of these:
+    398187 (99.96%) aligned 0 times
+    47 (0.01%) aligned exactly 1 time
+    100 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H4_lyPMA_S806_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+397720 reads; of these:
+  397720 (100.00%) were unpaired; of these:
+    397562 (99.96%) aligned 0 times
+    67 (0.02%) aligned exactly 1 time
+    91 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H5_lyPMA_S807_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+84102 reads; of these:
+  84102 (100.00%) were unpaired; of these:
+    84073 (99.97%) aligned 0 times
+    8 (0.01%) aligned exactly 1 time
+    21 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/H5_lyPMA_S807_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+83920 reads; of these:
+  83920 (100.00%) were unpaired; of these:
+    83897 (99.97%) aligned 0 times
+    8 (0.01%) aligned exactly 1 time
+    15 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/H6_lyPMA_S808_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+656143 reads; of these:
+  656143 (100.00%) were unpaired; of these:
+    655790 (99.95%) aligned 0 times
+    78 (0.01%) aligned exactly 1 time
+    275 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/H6_lyPMA_S808_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+655365 reads; of these:
+  655365 (100.00%) were unpaired; of these:
+    655033 (99.95%) aligned 0 times
+    68 (0.01%) aligned exactly 1 time
+    264 (0.04%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/H7_lyPMA_S809_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+591663 reads; of these:
+  591663 (100.00%) were unpaired; of these:
+    591378 (99.95%) aligned 0 times
+    85 (0.01%) aligned exactly 1 time
+    200 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/H7_lyPMA_S809_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+591045 reads; of these:
+  591045 (100.00%) were unpaired; of these:
+    590758 (99.95%) aligned 0 times
+    82 (0.01%) aligned exactly 1 time
+    205 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/H8_lyPMA_S810_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+825760 reads; of these:
+  825760 (100.00%) were unpaired; of these:
+    825394 (99.96%) aligned 0 times
+    105 (0.01%) aligned exactly 1 time
+    261 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H8_lyPMA_S810_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+824841 reads; of these:
+  824841 (100.00%) were unpaired; of these:
+    824483 (99.96%) aligned 0 times
+    92 (0.01%) aligned exactly 1 time
+    266 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H9_lyPMA_S811_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+106233 reads; of these:
+  106233 (100.00%) were unpaired; of these:
+    106188 (99.96%) aligned 0 times
+    14 (0.01%) aligned exactly 1 time
+    31 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/H9_lyPMA_S811_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+106124 reads; of these:
+  106124 (100.00%) were unpaired; of these:
+    106065 (99.94%) aligned 0 times
+    15 (0.01%) aligned exactly 1 time
+    44 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/I1_lyPMA_S812_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+136480 reads; of these:
+  136480 (100.00%) were unpaired; of these:
+    136410 (99.95%) aligned 0 times
+    37 (0.03%) aligned exactly 1 time
+    33 (0.02%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/I1_lyPMA_S812_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+136323 reads; of these:
+  136323 (100.00%) were unpaired; of these:
+    136273 (99.96%) aligned 0 times
+    14 (0.01%) aligned exactly 1 time
+    36 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/I2_lyPMA_S846_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+870 reads; of these:
+  870 (100.00%) were unpaired; of these:
+    870 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/I2_lyPMA_S846_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+871 reads; of these:
+  871 (100.00%) were unpaired; of these:
+    871 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/I3_lyPMA2_S847_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1793 reads; of these:
+  1793 (100.00%) were unpaired; of these:
+    1793 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/I3_lyPMA2_S847_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1792 reads; of these:
+  1792 (100.00%) were unpaired; of these:
+    1792 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/I4_lyPMA2_S848_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+5424 reads; of these:
+  5424 (100.00%) were unpaired; of these:
+    5422 (99.96%) aligned 0 times
+    2 (0.04%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/I4_lyPMA2_S848_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+5418 reads; of these:
+  5418 (100.00%) were unpaired; of these:
+    5415 (99.94%) aligned 0 times
+    1 (0.02%) aligned exactly 1 time
+    2 (0.04%) aligned >1 times
+0.06% overall alignment rate
+
+==> saliva/log50/I5_lyPMA2_S849_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2494 reads; of these:
+  2494 (100.00%) were unpaired; of these:
+    2491 (99.88%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    3 (0.12%) aligned >1 times
+0.12% overall alignment rate
+
+==> saliva/log50/I5_lyPMA2_S849_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2493 reads; of these:
+  2493 (100.00%) were unpaired; of these:
+    2493 (100.00%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> saliva/log50/I6_lyPMA2_S850_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+26701 reads; of these:
+  26701 (100.00%) were unpaired; of these:
+    26690 (99.96%) aligned 0 times
+    3 (0.01%) aligned exactly 1 time
+    8 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/I6_lyPMA2_S850_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+26697 reads; of these:
+  26697 (100.00%) were unpaired; of these:
+    26689 (99.97%) aligned 0 times
+    2 (0.01%) aligned exactly 1 time
+    6 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/I7_lyPMA2_S851_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+6400 reads; of these:
+  6400 (100.00%) were unpaired; of these:
+    6397 (99.95%) aligned 0 times
+    1 (0.02%) aligned exactly 1 time
+    2 (0.03%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/I7_lyPMA2_S851_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+6390 reads; of these:
+  6390 (100.00%) were unpaired; of these:
+    6388 (99.97%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    2 (0.03%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/I8_lyPMA_S813_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+57899 reads; of these:
+  57899 (100.00%) were unpaired; of these:
+    57877 (99.96%) aligned 0 times
+    12 (0.02%) aligned exactly 1 time
+    10 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/I8_lyPMA_S813_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+57821 reads; of these:
+  57821 (100.00%) were unpaired; of these:
+    57796 (99.96%) aligned 0 times
+    11 (0.02%) aligned exactly 1 time
+    14 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/I9_lyPMA2_S852_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+13120 reads; of these:
+  13120 (100.00%) were unpaired; of these:
+    13113 (99.95%) aligned 0 times
+    0 (0.00%) aligned exactly 1 time
+    7 (0.05%) aligned >1 times
+0.05% overall alignment rate
+
+==> saliva/log50/I9_lyPMA2_S852_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+13113 reads; of these:
+  13113 (100.00%) were unpaired; of these:
+    13109 (99.97%) aligned 0 times
+    1 (0.01%) aligned exactly 1 time
+    3 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J1_lyPMA_S814_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+878755 reads; of these:
+  878755 (100.00%) were unpaired; of these:
+    878424 (99.96%) aligned 0 times
+    94 (0.01%) aligned exactly 1 time
+    237 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J1_lyPMA_S814_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+878047 reads; of these:
+  878047 (100.00%) were unpaired; of these:
+    877739 (99.96%) aligned 0 times
+    88 (0.01%) aligned exactly 1 time
+    220 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J2_lyPMA2_S853_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+992436 reads; of these:
+  992436 (100.00%) were unpaired; of these:
+    992062 (99.96%) aligned 0 times
+    116 (0.01%) aligned exactly 1 time
+    258 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J2_lyPMA2_S853_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+990940 reads; of these:
+  990940 (100.00%) were unpaired; of these:
+    990582 (99.96%) aligned 0 times
+    111 (0.01%) aligned exactly 1 time
+    247 (0.02%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J3_lyPMA2_S854_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1305700 reads; of these:
+  1305700 (100.00%) were unpaired; of these:
+    1305259 (99.97%) aligned 0 times
+    141 (0.01%) aligned exactly 1 time
+    300 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J3_lyPMA2_S854_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1305157 reads; of these:
+  1305157 (100.00%) were unpaired; of these:
+    1304683 (99.96%) aligned 0 times
+    136 (0.01%) aligned exactly 1 time
+    338 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J4_lyPMA2_S855_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+2367460 reads; of these:
+  2367460 (100.00%) were unpaired; of these:
+    2366667 (99.97%) aligned 0 times
+    261 (0.01%) aligned exactly 1 time
+    532 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J4_lyPMA2_S855_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+2365376 reads; of these:
+  2365376 (100.00%) were unpaired; of these:
+    2364655 (99.97%) aligned 0 times
+    243 (0.01%) aligned exactly 1 time
+    478 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J5_lyPMA2_S856_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1486193 reads; of these:
+  1486193 (100.00%) were unpaired; of these:
+    1485667 (99.96%) aligned 0 times
+    132 (0.01%) aligned exactly 1 time
+    394 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J5_lyPMA2_S856_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1485173 reads; of these:
+  1485173 (100.00%) were unpaired; of these:
+    1484656 (99.97%) aligned 0 times
+    144 (0.01%) aligned exactly 1 time
+    373 (0.03%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J6_lyPMA2_S857_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+589747 reads; of these:
+  589747 (100.00%) were unpaired; of these:
+    589514 (99.96%) aligned 0 times
+    66 (0.01%) aligned exactly 1 time
+    167 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J6_lyPMA2_S857_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+589241 reads; of these:
+  589241 (100.00%) were unpaired; of these:
+    589003 (99.96%) aligned 0 times
+    59 (0.01%) aligned exactly 1 time
+    179 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J7_lyPMA2_S858_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+563505 reads; of these:
+  563505 (100.00%) were unpaired; of these:
+    563304 (99.96%) aligned 0 times
+    56 (0.01%) aligned exactly 1 time
+    145 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J7_lyPMA2_S858_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+563107 reads; of these:
+  563107 (100.00%) were unpaired; of these:
+    562915 (99.97%) aligned 0 times
+    61 (0.01%) aligned exactly 1 time
+    131 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J8_lyPMA2_S859_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+1347120 reads; of these:
+  1347120 (100.00%) were unpaired; of these:
+    1346617 (99.96%) aligned 0 times
+    160 (0.01%) aligned exactly 1 time
+    343 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J8_lyPMA2_S859_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+1346423 reads; of these:
+  1346423 (100.00%) were unpaired; of these:
+    1345978 (99.97%) aligned 0 times
+    136 (0.01%) aligned exactly 1 time
+    309 (0.02%) aligned >1 times
+0.03% overall alignment rate
+
+==> saliva/log50/J9_lyPMA_S815_L003_R1_001_val_1.fq.gz.sam.bam.f13_R1.fastq_trim50.fastq_synthetic16S.log <==
+152904 reads; of these:
+  152904 (100.00%) were unpaired; of these:
+    152845 (99.96%) aligned 0 times
+    10 (0.01%) aligned exactly 1 time
+    49 (0.03%) aligned >1 times
+0.04% overall alignment rate
+
+==> saliva/log50/J9_lyPMA_S815_L003_R1_001_val_1.fq.gz.sam.bam.f13_R2.fastq_trim50.fastq_synthetic16S.log <==
+152690 reads; of these:
+  152690 (100.00%) were unpaired; of these:
+    152630 (99.96%) aligned 0 times
+    14 (0.01%) aligned exactly 1 time
+    46 (0.03%) aligned >1 times
+0.04% overall alignment rate

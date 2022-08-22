@@ -1,0 +1,2015 @@
+==> ocean/ocean2/log50/SRR5720219_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20515164 reads; of these:
+  20515164 (100.00%) were unpaired; of these:
+    20513805 (99.99%) aligned 0 times
+    289 (0.00%) aligned exactly 1 time
+    1070 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720219_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20620528 reads; of these:
+  20620528 (100.00%) were unpaired; of these:
+    20619158 (99.99%) aligned 0 times
+    301 (0.00%) aligned exactly 1 time
+    1069 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720220_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+16632081 reads; of these:
+  16632081 (100.00%) were unpaired; of these:
+    16631288 (100.00%) aligned 0 times
+    175 (0.00%) aligned exactly 1 time
+    618 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720220_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+16732739 reads; of these:
+  16732739 (100.00%) were unpaired; of these:
+    16731977 (100.00%) aligned 0 times
+    155 (0.00%) aligned exactly 1 time
+    607 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720221_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+23149434 reads; of these:
+  23149434 (100.00%) were unpaired; of these:
+    23148683 (100.00%) aligned 0 times
+    156 (0.00%) aligned exactly 1 time
+    595 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720221_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22835818 reads; of these:
+  22835818 (100.00%) were unpaired; of these:
+    22835041 (100.00%) aligned 0 times
+    142 (0.00%) aligned exactly 1 time
+    635 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720222_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24154864 reads; of these:
+  24154864 (100.00%) were unpaired; of these:
+    24152947 (99.99%) aligned 0 times
+    387 (0.00%) aligned exactly 1 time
+    1530 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720222_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24306933 reads; of these:
+  24306933 (100.00%) were unpaired; of these:
+    24304998 (99.99%) aligned 0 times
+    349 (0.00%) aligned exactly 1 time
+    1586 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720223_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26540645 reads; of these:
+  26540645 (100.00%) were unpaired; of these:
+    26539179 (99.99%) aligned 0 times
+    360 (0.00%) aligned exactly 1 time
+    1106 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720223_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26675285 reads; of these:
+  26675285 (100.00%) were unpaired; of these:
+    26673868 (99.99%) aligned 0 times
+    295 (0.00%) aligned exactly 1 time
+    1122 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720224_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+18040142 reads; of these:
+  18040142 (100.00%) were unpaired; of these:
+    18039204 (99.99%) aligned 0 times
+    160 (0.00%) aligned exactly 1 time
+    778 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720224_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+17869740 reads; of these:
+  17869740 (100.00%) were unpaired; of these:
+    17868746 (99.99%) aligned 0 times
+    226 (0.00%) aligned exactly 1 time
+    768 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720225_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+23142541 reads; of these:
+  23142541 (100.00%) were unpaired; of these:
+    23141307 (99.99%) aligned 0 times
+    262 (0.00%) aligned exactly 1 time
+    972 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720225_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+23291338 reads; of these:
+  23291338 (100.00%) were unpaired; of these:
+    23290075 (99.99%) aligned 0 times
+    277 (0.00%) aligned exactly 1 time
+    986 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720226_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+19905024 reads; of these:
+  19905024 (100.00%) were unpaired; of these:
+    19903805 (99.99%) aligned 0 times
+    264 (0.00%) aligned exactly 1 time
+    955 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720226_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20048911 reads; of these:
+  20048911 (100.00%) were unpaired; of these:
+    20047690 (99.99%) aligned 0 times
+    250 (0.00%) aligned exactly 1 time
+    971 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720227_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20485170 reads; of these:
+  20485170 (100.00%) were unpaired; of these:
+    20483904 (99.99%) aligned 0 times
+    237 (0.00%) aligned exactly 1 time
+    1029 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720227_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20577748 reads; of these:
+  20577748 (100.00%) were unpaired; of these:
+    20576478 (99.99%) aligned 0 times
+    258 (0.00%) aligned exactly 1 time
+    1012 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720228_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+29247432 reads; of these:
+  29247432 (100.00%) were unpaired; of these:
+    29245654 (99.99%) aligned 0 times
+    374 (0.00%) aligned exactly 1 time
+    1404 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720228_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+29007506 reads; of these:
+  29007506 (100.00%) were unpaired; of these:
+    29005846 (99.99%) aligned 0 times
+    350 (0.00%) aligned exactly 1 time
+    1310 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720229_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30605195 reads; of these:
+  30605195 (100.00%) were unpaired; of these:
+    30603632 (99.99%) aligned 0 times
+    358 (0.00%) aligned exactly 1 time
+    1205 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720229_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+30439671 reads; of these:
+  30439671 (100.00%) were unpaired; of these:
+    30438064 (99.99%) aligned 0 times
+    327 (0.00%) aligned exactly 1 time
+    1280 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720230_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30892584 reads; of these:
+  30892584 (100.00%) were unpaired; of these:
+    30890057 (99.99%) aligned 0 times
+    527 (0.00%) aligned exactly 1 time
+    2000 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720230_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31000013 reads; of these:
+  31000013 (100.00%) were unpaired; of these:
+    30997559 (99.99%) aligned 0 times
+    524 (0.00%) aligned exactly 1 time
+    1930 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720231_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24920651 reads; of these:
+  24920651 (100.00%) were unpaired; of these:
+    24918557 (99.99%) aligned 0 times
+    466 (0.00%) aligned exactly 1 time
+    1628 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720231_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+25253982 reads; of these:
+  25253982 (100.00%) were unpaired; of these:
+    25252024 (99.99%) aligned 0 times
+    386 (0.00%) aligned exactly 1 time
+    1572 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720232_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+25937799 reads; of these:
+  25937799 (100.00%) were unpaired; of these:
+    25936699 (100.00%) aligned 0 times
+    272 (0.00%) aligned exactly 1 time
+    828 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720232_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26156885 reads; of these:
+  26156885 (100.00%) were unpaired; of these:
+    26155700 (100.00%) aligned 0 times
+    283 (0.00%) aligned exactly 1 time
+    902 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720233_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+17749041 reads; of these:
+  17749041 (100.00%) were unpaired; of these:
+    17747962 (99.99%) aligned 0 times
+    213 (0.00%) aligned exactly 1 time
+    866 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720233_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+17872701 reads; of these:
+  17872701 (100.00%) were unpaired; of these:
+    17871603 (99.99%) aligned 0 times
+    230 (0.00%) aligned exactly 1 time
+    868 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720234_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+23599429 reads; of these:
+  23599429 (100.00%) were unpaired; of these:
+    23598057 (99.99%) aligned 0 times
+    277 (0.00%) aligned exactly 1 time
+    1095 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720234_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+23892347 reads; of these:
+  23892347 (100.00%) were unpaired; of these:
+    23891057 (99.99%) aligned 0 times
+    280 (0.00%) aligned exactly 1 time
+    1010 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720235_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+12304166 reads; of these:
+  12304166 (100.00%) were unpaired; of these:
+    12303776 (100.00%) aligned 0 times
+    82 (0.00%) aligned exactly 1 time
+    308 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720235_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+12305518 reads; of these:
+  12305518 (100.00%) were unpaired; of these:
+    12305094 (100.00%) aligned 0 times
+    97 (0.00%) aligned exactly 1 time
+    327 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720236_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+36432714 reads; of these:
+  36432714 (100.00%) were unpaired; of these:
+    36430203 (99.99%) aligned 0 times
+    537 (0.00%) aligned exactly 1 time
+    1974 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720236_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+36402024 reads; of these:
+  36402024 (100.00%) were unpaired; of these:
+    36399492 (99.99%) aligned 0 times
+    583 (0.00%) aligned exactly 1 time
+    1949 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720237_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24461013 reads; of these:
+  24461013 (100.00%) were unpaired; of these:
+    24459302 (99.99%) aligned 0 times
+    382 (0.00%) aligned exactly 1 time
+    1329 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720237_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24806501 reads; of these:
+  24806501 (100.00%) were unpaired; of these:
+    24804681 (99.99%) aligned 0 times
+    375 (0.00%) aligned exactly 1 time
+    1445 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720238_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22976873 reads; of these:
+  22976873 (100.00%) were unpaired; of these:
+    22975403 (99.99%) aligned 0 times
+    327 (0.00%) aligned exactly 1 time
+    1143 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720238_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+23341719 reads; of these:
+  23341719 (100.00%) were unpaired; of these:
+    23340190 (99.99%) aligned 0 times
+    363 (0.00%) aligned exactly 1 time
+    1166 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720239_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31138488 reads; of these:
+  31138488 (100.00%) were unpaired; of these:
+    31136505 (99.99%) aligned 0 times
+    412 (0.00%) aligned exactly 1 time
+    1571 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720239_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31551258 reads; of these:
+  31551258 (100.00%) were unpaired; of these:
+    31549362 (99.99%) aligned 0 times
+    391 (0.00%) aligned exactly 1 time
+    1505 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720240_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24315784 reads; of these:
+  24315784 (100.00%) were unpaired; of these:
+    24314548 (99.99%) aligned 0 times
+    269 (0.00%) aligned exactly 1 time
+    967 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720240_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24099730 reads; of these:
+  24099730 (100.00%) were unpaired; of these:
+    24098482 (99.99%) aligned 0 times
+    264 (0.00%) aligned exactly 1 time
+    984 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720241_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30175821 reads; of these:
+  30175821 (100.00%) were unpaired; of these:
+    30173695 (99.99%) aligned 0 times
+    429 (0.00%) aligned exactly 1 time
+    1697 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720241_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+29801612 reads; of these:
+  29801612 (100.00%) were unpaired; of these:
+    29799463 (99.99%) aligned 0 times
+    434 (0.00%) aligned exactly 1 time
+    1715 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720242_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22897378 reads; of these:
+  22897378 (100.00%) were unpaired; of these:
+    22896204 (99.99%) aligned 0 times
+    239 (0.00%) aligned exactly 1 time
+    935 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720242_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+23036196 reads; of these:
+  23036196 (100.00%) were unpaired; of these:
+    23035028 (99.99%) aligned 0 times
+    272 (0.00%) aligned exactly 1 time
+    896 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720243_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+6303421 reads; of these:
+  6303421 (100.00%) were unpaired; of these:
+    6302987 (99.99%) aligned 0 times
+    87 (0.00%) aligned exactly 1 time
+    347 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720243_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+6351478 reads; of these:
+  6351478 (100.00%) were unpaired; of these:
+    6351065 (99.99%) aligned 0 times
+    87 (0.00%) aligned exactly 1 time
+    326 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720244_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+25678592 reads; of these:
+  25678592 (100.00%) were unpaired; of these:
+    25677053 (99.99%) aligned 0 times
+    359 (0.00%) aligned exactly 1 time
+    1180 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720244_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26169265 reads; of these:
+  26169265 (100.00%) were unpaired; of these:
+    26167751 (99.99%) aligned 0 times
+    302 (0.00%) aligned exactly 1 time
+    1212 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720245_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28266971 reads; of these:
+  28266971 (100.00%) were unpaired; of these:
+    28265127 (99.99%) aligned 0 times
+    348 (0.00%) aligned exactly 1 time
+    1496 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720245_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28527169 reads; of these:
+  28527169 (100.00%) were unpaired; of these:
+    28525258 (99.99%) aligned 0 times
+    419 (0.00%) aligned exactly 1 time
+    1492 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720246_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31222077 reads; of these:
+  31222077 (100.00%) were unpaired; of these:
+    31219720 (99.99%) aligned 0 times
+    467 (0.00%) aligned exactly 1 time
+    1890 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720246_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+30871990 reads; of these:
+  30871990 (100.00%) were unpaired; of these:
+    30869733 (99.99%) aligned 0 times
+    454 (0.00%) aligned exactly 1 time
+    1803 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720247_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24144517 reads; of these:
+  24144517 (100.00%) were unpaired; of these:
+    24142634 (99.99%) aligned 0 times
+    369 (0.00%) aligned exactly 1 time
+    1514 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720247_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24441767 reads; of these:
+  24441767 (100.00%) were unpaired; of these:
+    24439836 (99.99%) aligned 0 times
+    373 (0.00%) aligned exactly 1 time
+    1558 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720248_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+21498403 reads; of these:
+  21498403 (100.00%) were unpaired; of these:
+    21497233 (99.99%) aligned 0 times
+    247 (0.00%) aligned exactly 1 time
+    923 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720248_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+21778950 reads; of these:
+  21778950 (100.00%) were unpaired; of these:
+    21777839 (99.99%) aligned 0 times
+    234 (0.00%) aligned exactly 1 time
+    877 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720249_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+38853142 reads; of these:
+  38853142 (100.00%) were unpaired; of these:
+    38849332 (99.99%) aligned 0 times
+    787 (0.00%) aligned exactly 1 time
+    3023 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720249_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+38922307 reads; of these:
+  38922307 (100.00%) were unpaired; of these:
+    38918508 (99.99%) aligned 0 times
+    784 (0.00%) aligned exactly 1 time
+    3015 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720250_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+41829408 reads; of these:
+  41829408 (100.00%) were unpaired; of these:
+    41825666 (99.99%) aligned 0 times
+    751 (0.00%) aligned exactly 1 time
+    2991 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720250_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+43424882 reads; of these:
+  43424882 (100.00%) were unpaired; of these:
+    43420954 (99.99%) aligned 0 times
+    863 (0.00%) aligned exactly 1 time
+    3065 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720251_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+15497648 reads; of these:
+  15497648 (100.00%) were unpaired; of these:
+    15496540 (99.99%) aligned 0 times
+    222 (0.00%) aligned exactly 1 time
+    886 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720251_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+15567273 reads; of these:
+  15567273 (100.00%) were unpaired; of these:
+    15566119 (99.99%) aligned 0 times
+    213 (0.00%) aligned exactly 1 time
+    941 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720252_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+27669468 reads; of these:
+  27669468 (100.00%) were unpaired; of these:
+    27667769 (99.99%) aligned 0 times
+    358 (0.00%) aligned exactly 1 time
+    1341 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720252_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27577609 reads; of these:
+  27577609 (100.00%) were unpaired; of these:
+    27575945 (99.99%) aligned 0 times
+    313 (0.00%) aligned exactly 1 time
+    1351 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720253_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+19008610 reads; of these:
+  19008610 (100.00%) were unpaired; of these:
+    19007383 (99.99%) aligned 0 times
+    294 (0.00%) aligned exactly 1 time
+    933 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720253_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+19146071 reads; of these:
+  19146071 (100.00%) were unpaired; of these:
+    19144845 (99.99%) aligned 0 times
+    274 (0.00%) aligned exactly 1 time
+    952 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720254_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+45303678 reads; of these:
+  45303678 (100.00%) were unpaired; of these:
+    45301447 (100.00%) aligned 0 times
+    439 (0.00%) aligned exactly 1 time
+    1792 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720254_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+45587007 reads; of these:
+  45587007 (100.00%) were unpaired; of these:
+    45584741 (100.00%) aligned 0 times
+    503 (0.00%) aligned exactly 1 time
+    1763 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720255_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+32266728 reads; of these:
+  32266728 (100.00%) were unpaired; of these:
+    32265091 (99.99%) aligned 0 times
+    354 (0.00%) aligned exactly 1 time
+    1283 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720255_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+32749888 reads; of these:
+  32749888 (100.00%) were unpaired; of these:
+    32748264 (100.00%) aligned 0 times
+    328 (0.00%) aligned exactly 1 time
+    1296 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720256_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33254420 reads; of these:
+  33254420 (100.00%) were unpaired; of these:
+    33251353 (99.99%) aligned 0 times
+    664 (0.00%) aligned exactly 1 time
+    2403 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720256_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+32715621 reads; of these:
+  32715621 (100.00%) were unpaired; of these:
+    32712510 (99.99%) aligned 0 times
+    716 (0.00%) aligned exactly 1 time
+    2395 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720257_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+13775654 reads; of these:
+  13775654 (100.00%) were unpaired; of these:
+    13775192 (100.00%) aligned 0 times
+    109 (0.00%) aligned exactly 1 time
+    353 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720257_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+13823394 reads; of these:
+  13823394 (100.00%) were unpaired; of these:
+    13822844 (100.00%) aligned 0 times
+    121 (0.00%) aligned exactly 1 time
+    429 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720258_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20067535 reads; of these:
+  20067535 (100.00%) were unpaired; of these:
+    20066445 (99.99%) aligned 0 times
+    267 (0.00%) aligned exactly 1 time
+    823 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720258_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20198907 reads; of these:
+  20198907 (100.00%) were unpaired; of these:
+    20197771 (99.99%) aligned 0 times
+    283 (0.00%) aligned exactly 1 time
+    853 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720259_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+57745119 reads; of these:
+  57745119 (100.00%) were unpaired; of these:
+    57741902 (99.99%) aligned 0 times
+    688 (0.00%) aligned exactly 1 time
+    2529 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720259_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+58188680 reads; of these:
+  58188680 (100.00%) were unpaired; of these:
+    58185477 (99.99%) aligned 0 times
+    772 (0.00%) aligned exactly 1 time
+    2431 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720260_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+11690391 reads; of these:
+  11690391 (100.00%) were unpaired; of these:
+    11689983 (100.00%) aligned 0 times
+    96 (0.00%) aligned exactly 1 time
+    312 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720260_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+11709391 reads; of these:
+  11709391 (100.00%) were unpaired; of these:
+    11708932 (100.00%) aligned 0 times
+    114 (0.00%) aligned exactly 1 time
+    345 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720261_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26361984 reads; of these:
+  26361984 (100.00%) were unpaired; of these:
+    26360796 (100.00%) aligned 0 times
+    228 (0.00%) aligned exactly 1 time
+    960 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720261_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26034018 reads; of these:
+  26034018 (100.00%) were unpaired; of these:
+    26032875 (100.00%) aligned 0 times
+    206 (0.00%) aligned exactly 1 time
+    937 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720262_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20582347 reads; of these:
+  20582347 (100.00%) were unpaired; of these:
+    20580759 (99.99%) aligned 0 times
+    349 (0.00%) aligned exactly 1 time
+    1239 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720262_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20543931 reads; of these:
+  20543931 (100.00%) were unpaired; of these:
+    20542438 (99.99%) aligned 0 times
+    346 (0.00%) aligned exactly 1 time
+    1147 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720263_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28652731 reads; of these:
+  28652731 (100.00%) were unpaired; of these:
+    28650708 (99.99%) aligned 0 times
+    457 (0.00%) aligned exactly 1 time
+    1566 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720263_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28486839 reads; of these:
+  28486839 (100.00%) were unpaired; of these:
+    28484838 (99.99%) aligned 0 times
+    441 (0.00%) aligned exactly 1 time
+    1560 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720264_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+16869448 reads; of these:
+  16869448 (100.00%) were unpaired; of these:
+    16868668 (100.00%) aligned 0 times
+    154 (0.00%) aligned exactly 1 time
+    626 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720264_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+16671943 reads; of these:
+  16671943 (100.00%) were unpaired; of these:
+    16671137 (100.00%) aligned 0 times
+    160 (0.00%) aligned exactly 1 time
+    646 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720266_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22048325 reads; of these:
+  22048325 (100.00%) were unpaired; of these:
+    22046861 (99.99%) aligned 0 times
+    289 (0.00%) aligned exactly 1 time
+    1175 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720266_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+21711194 reads; of these:
+  21711194 (100.00%) were unpaired; of these:
+    21709680 (99.99%) aligned 0 times
+    315 (0.00%) aligned exactly 1 time
+    1199 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720267_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+41482948 reads; of these:
+  41482948 (100.00%) were unpaired; of these:
+    41481008 (100.00%) aligned 0 times
+    471 (0.00%) aligned exactly 1 time
+    1469 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720267_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+41964696 reads; of these:
+  41964696 (100.00%) were unpaired; of these:
+    41962720 (100.00%) aligned 0 times
+    406 (0.00%) aligned exactly 1 time
+    1570 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720269_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+16445112 reads; of these:
+  16445112 (100.00%) were unpaired; of these:
+    16444059 (99.99%) aligned 0 times
+    220 (0.00%) aligned exactly 1 time
+    833 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720269_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+16557443 reads; of these:
+  16557443 (100.00%) were unpaired; of these:
+    16556379 (99.99%) aligned 0 times
+    209 (0.00%) aligned exactly 1 time
+    855 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720270_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+42090228 reads; of these:
+  42090228 (100.00%) were unpaired; of these:
+    42087974 (99.99%) aligned 0 times
+    500 (0.00%) aligned exactly 1 time
+    1754 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720270_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+41596005 reads; of these:
+  41596005 (100.00%) were unpaired; of these:
+    41593666 (99.99%) aligned 0 times
+    515 (0.00%) aligned exactly 1 time
+    1824 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720271_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22918113 reads; of these:
+  22918113 (100.00%) were unpaired; of these:
+    22917126 (100.00%) aligned 0 times
+    213 (0.00%) aligned exactly 1 time
+    774 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720271_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22760678 reads; of these:
+  22760678 (100.00%) were unpaired; of these:
+    22759703 (100.00%) aligned 0 times
+    189 (0.00%) aligned exactly 1 time
+    786 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720273_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28469760 reads; of these:
+  28469760 (100.00%) were unpaired; of these:
+    28467409 (99.99%) aligned 0 times
+    446 (0.00%) aligned exactly 1 time
+    1905 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720273_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28830186 reads; of these:
+  28830186 (100.00%) were unpaired; of these:
+    28827796 (99.99%) aligned 0 times
+    477 (0.00%) aligned exactly 1 time
+    1913 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720274_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33370771 reads; of these:
+  33370771 (100.00%) were unpaired; of these:
+    33368543 (99.99%) aligned 0 times
+    480 (0.00%) aligned exactly 1 time
+    1748 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720274_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+32973398 reads; of these:
+  32973398 (100.00%) were unpaired; of these:
+    32971251 (99.99%) aligned 0 times
+    438 (0.00%) aligned exactly 1 time
+    1709 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720275_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+35924319 reads; of these:
+  35924319 (100.00%) were unpaired; of these:
+    35922440 (99.99%) aligned 0 times
+    393 (0.00%) aligned exactly 1 time
+    1486 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720275_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+35270360 reads; of these:
+  35270360 (100.00%) were unpaired; of these:
+    35268326 (99.99%) aligned 0 times
+    415 (0.00%) aligned exactly 1 time
+    1619 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720276_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22219838 reads; of these:
+  22219838 (100.00%) were unpaired; of these:
+    22218242 (99.99%) aligned 0 times
+    297 (0.00%) aligned exactly 1 time
+    1299 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720276_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22242839 reads; of these:
+  22242839 (100.00%) were unpaired; of these:
+    22241228 (99.99%) aligned 0 times
+    348 (0.00%) aligned exactly 1 time
+    1263 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720277_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+15872299 reads; of these:
+  15872299 (100.00%) were unpaired; of these:
+    15871162 (99.99%) aligned 0 times
+    246 (0.00%) aligned exactly 1 time
+    891 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720277_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+15915676 reads; of these:
+  15915676 (100.00%) were unpaired; of these:
+    15914583 (99.99%) aligned 0 times
+    225 (0.00%) aligned exactly 1 time
+    868 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720278_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22849173 reads; of these:
+  22849173 (100.00%) were unpaired; of these:
+    22847507 (99.99%) aligned 0 times
+    354 (0.00%) aligned exactly 1 time
+    1312 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720278_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22572010 reads; of these:
+  22572010 (100.00%) were unpaired; of these:
+    22570237 (99.99%) aligned 0 times
+    390 (0.00%) aligned exactly 1 time
+    1383 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720279_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28397031 reads; of these:
+  28397031 (100.00%) were unpaired; of these:
+    28395808 (100.00%) aligned 0 times
+    254 (0.00%) aligned exactly 1 time
+    969 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720279_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27994794 reads; of these:
+  27994794 (100.00%) were unpaired; of these:
+    27993600 (100.00%) aligned 0 times
+    238 (0.00%) aligned exactly 1 time
+    956 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720280_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+34039117 reads; of these:
+  34039117 (100.00%) were unpaired; of these:
+    34036900 (99.99%) aligned 0 times
+    505 (0.00%) aligned exactly 1 time
+    1712 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720280_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+34299550 reads; of these:
+  34299550 (100.00%) were unpaired; of these:
+    34297280 (99.99%) aligned 0 times
+    445 (0.00%) aligned exactly 1 time
+    1825 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720281_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+12614670 reads; of these:
+  12614670 (100.00%) were unpaired; of these:
+    12614072 (100.00%) aligned 0 times
+    124 (0.00%) aligned exactly 1 time
+    474 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720281_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+12727823 reads; of these:
+  12727823 (100.00%) were unpaired; of these:
+    12727192 (100.00%) aligned 0 times
+    125 (0.00%) aligned exactly 1 time
+    506 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720282_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28531698 reads; of these:
+  28531698 (100.00%) were unpaired; of these:
+    28530084 (99.99%) aligned 0 times
+    334 (0.00%) aligned exactly 1 time
+    1280 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720282_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28415324 reads; of these:
+  28415324 (100.00%) were unpaired; of these:
+    28413755 (99.99%) aligned 0 times
+    302 (0.00%) aligned exactly 1 time
+    1267 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720283_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20051900 reads; of these:
+  20051900 (100.00%) were unpaired; of these:
+    20051008 (100.00%) aligned 0 times
+    208 (0.00%) aligned exactly 1 time
+    684 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720283_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20042664 reads; of these:
+  20042664 (100.00%) were unpaired; of these:
+    20041719 (100.00%) aligned 0 times
+    190 (0.00%) aligned exactly 1 time
+    755 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720284_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+29724497 reads; of these:
+  29724497 (100.00%) were unpaired; of these:
+    29722767 (99.99%) aligned 0 times
+    382 (0.00%) aligned exactly 1 time
+    1348 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720284_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+29556926 reads; of these:
+  29556926 (100.00%) were unpaired; of these:
+    29555247 (99.99%) aligned 0 times
+    341 (0.00%) aligned exactly 1 time
+    1338 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720285_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+35771611 reads; of these:
+  35771611 (100.00%) were unpaired; of these:
+    35768590 (99.99%) aligned 0 times
+    601 (0.00%) aligned exactly 1 time
+    2420 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720285_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+36873045 reads; of these:
+  36873045 (100.00%) were unpaired; of these:
+    36869966 (99.99%) aligned 0 times
+    635 (0.00%) aligned exactly 1 time
+    2444 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720286_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+11925685 reads; of these:
+  11925685 (100.00%) were unpaired; of these:
+    11925139 (100.00%) aligned 0 times
+    120 (0.00%) aligned exactly 1 time
+    426 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720286_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+11947213 reads; of these:
+  11947213 (100.00%) were unpaired; of these:
+    11946632 (100.00%) aligned 0 times
+    133 (0.00%) aligned exactly 1 time
+    448 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720287_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+11987875 reads; of these:
+  11987875 (100.00%) were unpaired; of these:
+    11987029 (99.99%) aligned 0 times
+    177 (0.00%) aligned exactly 1 time
+    669 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720287_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+12243554 reads; of these:
+  12243554 (100.00%) were unpaired; of these:
+    12242699 (99.99%) aligned 0 times
+    184 (0.00%) aligned exactly 1 time
+    671 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720288_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+11193042 reads; of these:
+  11193042 (100.00%) were unpaired; of these:
+    11192167 (99.99%) aligned 0 times
+    206 (0.00%) aligned exactly 1 time
+    669 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720288_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+11229407 reads; of these:
+  11229407 (100.00%) were unpaired; of these:
+    11228599 (99.99%) aligned 0 times
+    158 (0.00%) aligned exactly 1 time
+    650 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720289_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+14346542 reads; of these:
+  14346542 (100.00%) were unpaired; of these:
+    14346002 (100.00%) aligned 0 times
+    118 (0.00%) aligned exactly 1 time
+    422 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720289_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+14419493 reads; of these:
+  14419493 (100.00%) were unpaired; of these:
+    14418959 (100.00%) aligned 0 times
+    126 (0.00%) aligned exactly 1 time
+    408 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720290_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+34624393 reads; of these:
+  34624393 (100.00%) were unpaired; of these:
+    34622584 (99.99%) aligned 0 times
+    385 (0.00%) aligned exactly 1 time
+    1424 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720290_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+34717495 reads; of these:
+  34717495 (100.00%) were unpaired; of these:
+    34715760 (100.00%) aligned 0 times
+    360 (0.00%) aligned exactly 1 time
+    1375 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720291_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31902828 reads; of these:
+  31902828 (100.00%) were unpaired; of these:
+    31900024 (99.99%) aligned 0 times
+    558 (0.00%) aligned exactly 1 time
+    2246 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720291_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+32825285 reads; of these:
+  32825285 (100.00%) were unpaired; of these:
+    32822572 (99.99%) aligned 0 times
+    564 (0.00%) aligned exactly 1 time
+    2149 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720292_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30965872 reads; of these:
+  30965872 (100.00%) were unpaired; of these:
+    30964327 (100.00%) aligned 0 times
+    312 (0.00%) aligned exactly 1 time
+    1233 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720292_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+30563582 reads; of these:
+  30563582 (100.00%) were unpaired; of these:
+    30562041 (99.99%) aligned 0 times
+    308 (0.00%) aligned exactly 1 time
+    1233 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720293_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+37409770 reads; of these:
+  37409770 (100.00%) were unpaired; of these:
+    37407269 (99.99%) aligned 0 times
+    477 (0.00%) aligned exactly 1 time
+    2024 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720293_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+36670110 reads; of these:
+  36670110 (100.00%) were unpaired; of these:
+    36667666 (99.99%) aligned 0 times
+    500 (0.00%) aligned exactly 1 time
+    1944 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720294_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+22742776 reads; of these:
+  22742776 (100.00%) were unpaired; of these:
+    22741339 (99.99%) aligned 0 times
+    279 (0.00%) aligned exactly 1 time
+    1158 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720294_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+23350393 reads; of these:
+  23350393 (100.00%) were unpaired; of these:
+    23348987 (99.99%) aligned 0 times
+    304 (0.00%) aligned exactly 1 time
+    1102 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720295_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+13465773 reads; of these:
+  13465773 (100.00%) were unpaired; of these:
+    13464882 (99.99%) aligned 0 times
+    178 (0.00%) aligned exactly 1 time
+    713 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720295_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+13861549 reads; of these:
+  13861549 (100.00%) were unpaired; of these:
+    13860718 (99.99%) aligned 0 times
+    179 (0.00%) aligned exactly 1 time
+    652 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720297_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+29222977 reads; of these:
+  29222977 (100.00%) were unpaired; of these:
+    29221123 (99.99%) aligned 0 times
+    377 (0.00%) aligned exactly 1 time
+    1477 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720297_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+29348747 reads; of these:
+  29348747 (100.00%) were unpaired; of these:
+    29346986 (99.99%) aligned 0 times
+    382 (0.00%) aligned exactly 1 time
+    1379 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720298_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+21900305 reads; of these:
+  21900305 (100.00%) were unpaired; of these:
+    21898784 (99.99%) aligned 0 times
+    305 (0.00%) aligned exactly 1 time
+    1216 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720298_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+21704518 reads; of these:
+  21704518 (100.00%) were unpaired; of these:
+    21703025 (99.99%) aligned 0 times
+    286 (0.00%) aligned exactly 1 time
+    1207 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720299_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+12472526 reads; of these:
+  12472526 (100.00%) were unpaired; of these:
+    12471939 (100.00%) aligned 0 times
+    124 (0.00%) aligned exactly 1 time
+    463 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720299_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+12440874 reads; of these:
+  12440874 (100.00%) were unpaired; of these:
+    12440234 (99.99%) aligned 0 times
+    132 (0.00%) aligned exactly 1 time
+    508 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720300_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+9893505 reads; of these:
+  9893505 (100.00%) were unpaired; of these:
+    9893071 (100.00%) aligned 0 times
+    111 (0.00%) aligned exactly 1 time
+    323 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720300_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+9824612 reads; of these:
+  9824612 (100.00%) were unpaired; of these:
+    9824172 (100.00%) aligned 0 times
+    113 (0.00%) aligned exactly 1 time
+    327 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720301_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+11512615 reads; of these:
+  11512615 (100.00%) were unpaired; of these:
+    11512298 (100.00%) aligned 0 times
+    89 (0.00%) aligned exactly 1 time
+    228 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720301_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+11522298 reads; of these:
+  11522298 (100.00%) were unpaired; of these:
+    11521956 (100.00%) aligned 0 times
+    91 (0.00%) aligned exactly 1 time
+    251 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720302_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28768806 reads; of these:
+  28768806 (100.00%) were unpaired; of these:
+    28768107 (100.00%) aligned 0 times
+    144 (0.00%) aligned exactly 1 time
+    555 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720302_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28634932 reads; of these:
+  28634932 (100.00%) were unpaired; of these:
+    28634187 (100.00%) aligned 0 times
+    185 (0.00%) aligned exactly 1 time
+    560 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720303_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+25086790 reads; of these:
+  25086790 (100.00%) were unpaired; of these:
+    25084628 (99.99%) aligned 0 times
+    455 (0.00%) aligned exactly 1 time
+    1707 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720303_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24958184 reads; of these:
+  24958184 (100.00%) were unpaired; of these:
+    24956183 (99.99%) aligned 0 times
+    429 (0.00%) aligned exactly 1 time
+    1572 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720304_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+19014347 reads; of these:
+  19014347 (100.00%) were unpaired; of these:
+    19013024 (99.99%) aligned 0 times
+    278 (0.00%) aligned exactly 1 time
+    1045 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720304_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+18870934 reads; of these:
+  18870934 (100.00%) were unpaired; of these:
+    18869699 (99.99%) aligned 0 times
+    240 (0.00%) aligned exactly 1 time
+    995 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720305_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26817985 reads; of these:
+  26817985 (100.00%) were unpaired; of these:
+    26815167 (99.99%) aligned 0 times
+    554 (0.00%) aligned exactly 1 time
+    2264 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720305_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26658652 reads; of these:
+  26658652 (100.00%) were unpaired; of these:
+    26655912 (99.99%) aligned 0 times
+    550 (0.00%) aligned exactly 1 time
+    2190 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720306_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20627666 reads; of these:
+  20627666 (100.00%) were unpaired; of these:
+    20626391 (99.99%) aligned 0 times
+    259 (0.00%) aligned exactly 1 time
+    1016 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720306_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20523741 reads; of these:
+  20523741 (100.00%) were unpaired; of these:
+    20522440 (99.99%) aligned 0 times
+    283 (0.00%) aligned exactly 1 time
+    1018 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720307_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+16490225 reads; of these:
+  16490225 (100.00%) were unpaired; of these:
+    16489399 (99.99%) aligned 0 times
+    167 (0.00%) aligned exactly 1 time
+    659 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720307_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+16635920 reads; of these:
+  16635920 (100.00%) were unpaired; of these:
+    16635093 (100.00%) aligned 0 times
+    171 (0.00%) aligned exactly 1 time
+    656 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720308_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+15950804 reads; of these:
+  15950804 (100.00%) were unpaired; of these:
+    15949713 (99.99%) aligned 0 times
+    201 (0.00%) aligned exactly 1 time
+    890 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720308_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+16122149 reads; of these:
+  16122149 (100.00%) were unpaired; of these:
+    16121176 (99.99%) aligned 0 times
+    231 (0.00%) aligned exactly 1 time
+    742 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720309_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+18834856 reads; of these:
+  18834856 (100.00%) were unpaired; of these:
+    18833626 (99.99%) aligned 0 times
+    213 (0.00%) aligned exactly 1 time
+    1017 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720309_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+18805998 reads; of these:
+  18805998 (100.00%) were unpaired; of these:
+    18804753 (99.99%) aligned 0 times
+    289 (0.00%) aligned exactly 1 time
+    956 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720310_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+21847033 reads; of these:
+  21847033 (100.00%) were unpaired; of these:
+    21845563 (99.99%) aligned 0 times
+    273 (0.00%) aligned exactly 1 time
+    1197 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720310_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+22324099 reads; of these:
+  22324099 (100.00%) were unpaired; of these:
+    22322645 (99.99%) aligned 0 times
+    310 (0.00%) aligned exactly 1 time
+    1144 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720311_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33033651 reads; of these:
+  33033651 (100.00%) were unpaired; of these:
+    33031433 (99.99%) aligned 0 times
+    433 (0.00%) aligned exactly 1 time
+    1785 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720311_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+33088995 reads; of these:
+  33088995 (100.00%) were unpaired; of these:
+    33086752 (99.99%) aligned 0 times
+    459 (0.00%) aligned exactly 1 time
+    1784 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720312_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26692648 reads; of these:
+  26692648 (100.00%) were unpaired; of these:
+    26690969 (99.99%) aligned 0 times
+    371 (0.00%) aligned exactly 1 time
+    1308 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720312_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26882199 reads; of these:
+  26882199 (100.00%) were unpaired; of these:
+    26880329 (99.99%) aligned 0 times
+    387 (0.00%) aligned exactly 1 time
+    1483 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720313_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+15788383 reads; of these:
+  15788383 (100.00%) were unpaired; of these:
+    15787733 (100.00%) aligned 0 times
+    146 (0.00%) aligned exactly 1 time
+    504 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720313_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+15945388 reads; of these:
+  15945388 (100.00%) were unpaired; of these:
+    15944732 (100.00%) aligned 0 times
+    145 (0.00%) aligned exactly 1 time
+    511 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720314_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+14848880 reads; of these:
+  14848880 (100.00%) were unpaired; of these:
+    14848164 (100.00%) aligned 0 times
+    149 (0.00%) aligned exactly 1 time
+    567 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720314_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+14756864 reads; of these:
+  14756864 (100.00%) were unpaired; of these:
+    14756180 (100.00%) aligned 0 times
+    151 (0.00%) aligned exactly 1 time
+    533 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720315_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31238230 reads; of these:
+  31238230 (100.00%) were unpaired; of these:
+    31235682 (99.99%) aligned 0 times
+    520 (0.00%) aligned exactly 1 time
+    2028 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720315_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31286072 reads; of these:
+  31286072 (100.00%) were unpaired; of these:
+    31283558 (99.99%) aligned 0 times
+    528 (0.00%) aligned exactly 1 time
+    1986 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720316_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30401868 reads; of these:
+  30401868 (100.00%) were unpaired; of these:
+    30400067 (99.99%) aligned 0 times
+    331 (0.00%) aligned exactly 1 time
+    1470 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720316_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31193786 reads; of these:
+  31193786 (100.00%) were unpaired; of these:
+    31191992 (99.99%) aligned 0 times
+    378 (0.00%) aligned exactly 1 time
+    1416 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720317_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26942189 reads; of these:
+  26942189 (100.00%) were unpaired; of these:
+    26940202 (99.99%) aligned 0 times
+    355 (0.00%) aligned exactly 1 time
+    1632 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720317_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27266958 reads; of these:
+  27266958 (100.00%) were unpaired; of these:
+    27265000 (99.99%) aligned 0 times
+    388 (0.00%) aligned exactly 1 time
+    1570 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720318_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31898085 reads; of these:
+  31898085 (100.00%) were unpaired; of these:
+    31896873 (100.00%) aligned 0 times
+    290 (0.00%) aligned exactly 1 time
+    922 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720318_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31498449 reads; of these:
+  31498449 (100.00%) were unpaired; of these:
+    31497182 (100.00%) aligned 0 times
+    302 (0.00%) aligned exactly 1 time
+    965 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720319_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31077247 reads; of these:
+  31077247 (100.00%) were unpaired; of these:
+    31074950 (99.99%) aligned 0 times
+    539 (0.00%) aligned exactly 1 time
+    1758 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720319_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31365394 reads; of these:
+  31365394 (100.00%) were unpaired; of these:
+    31362990 (99.99%) aligned 0 times
+    534 (0.00%) aligned exactly 1 time
+    1870 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720320_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+47633671 reads; of these:
+  47633671 (100.00%) were unpaired; of these:
+    47629776 (99.99%) aligned 0 times
+    841 (0.00%) aligned exactly 1 time
+    3054 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720320_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+46911928 reads; of these:
+  46911928 (100.00%) were unpaired; of these:
+    46908026 (99.99%) aligned 0 times
+    864 (0.00%) aligned exactly 1 time
+    3038 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720321_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20411215 reads; of these:
+  20411215 (100.00%) were unpaired; of these:
+    20410311 (100.00%) aligned 0 times
+    205 (0.00%) aligned exactly 1 time
+    699 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720321_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20216224 reads; of these:
+  20216224 (100.00%) were unpaired; of these:
+    20215271 (100.00%) aligned 0 times
+    207 (0.00%) aligned exactly 1 time
+    746 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720322_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+30018093 reads; of these:
+  30018093 (100.00%) were unpaired; of these:
+    30015701 (99.99%) aligned 0 times
+    488 (0.00%) aligned exactly 1 time
+    1904 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720322_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+30443237 reads; of these:
+  30443237 (100.00%) were unpaired; of these:
+    30440629 (99.99%) aligned 0 times
+    614 (0.00%) aligned exactly 1 time
+    1994 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720323_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+7507644 reads; of these:
+  7507644 (100.00%) were unpaired; of these:
+    7507322 (100.00%) aligned 0 times
+    60 (0.00%) aligned exactly 1 time
+    262 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720323_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+7594785 reads; of these:
+  7594785 (100.00%) were unpaired; of these:
+    7594413 (100.00%) aligned 0 times
+    110 (0.00%) aligned exactly 1 time
+    262 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720324_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20317422 reads; of these:
+  20317422 (100.00%) were unpaired; of these:
+    20316083 (99.99%) aligned 0 times
+    300 (0.00%) aligned exactly 1 time
+    1039 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720324_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20813699 reads; of these:
+  20813699 (100.00%) were unpaired; of these:
+    20812287 (99.99%) aligned 0 times
+    275 (0.00%) aligned exactly 1 time
+    1137 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720325_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+15229664 reads; of these:
+  15229664 (100.00%) were unpaired; of these:
+    15228164 (99.99%) aligned 0 times
+    290 (0.00%) aligned exactly 1 time
+    1210 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720325_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+15677644 reads; of these:
+  15677644 (100.00%) were unpaired; of these:
+    15676107 (99.99%) aligned 0 times
+    332 (0.00%) aligned exactly 1 time
+    1205 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720326_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+2587802 reads; of these:
+  2587802 (100.00%) were unpaired; of these:
+    2587613 (99.99%) aligned 0 times
+    41 (0.00%) aligned exactly 1 time
+    148 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720326_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+2588240 reads; of these:
+  2588240 (100.00%) were unpaired; of these:
+    2588076 (99.99%) aligned 0 times
+    30 (0.00%) aligned exactly 1 time
+    134 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720327_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+25218728 reads; of these:
+  25218728 (100.00%) were unpaired; of these:
+    25217790 (100.00%) aligned 0 times
+    170 (0.00%) aligned exactly 1 time
+    768 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720327_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+25342873 reads; of these:
+  25342873 (100.00%) were unpaired; of these:
+    25341795 (100.00%) aligned 0 times
+    233 (0.00%) aligned exactly 1 time
+    845 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720328_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+43894736 reads; of these:
+  43894736 (100.00%) were unpaired; of these:
+    43891020 (99.99%) aligned 0 times
+    761 (0.00%) aligned exactly 1 time
+    2955 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720328_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+45016635 reads; of these:
+  45016635 (100.00%) were unpaired; of these:
+    45012857 (99.99%) aligned 0 times
+    754 (0.00%) aligned exactly 1 time
+    3024 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720329_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+25381816 reads; of these:
+  25381816 (100.00%) were unpaired; of these:
+    25379512 (99.99%) aligned 0 times
+    406 (0.00%) aligned exactly 1 time
+    1898 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720329_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+25596454 reads; of these:
+  25596454 (100.00%) were unpaired; of these:
+    25594095 (99.99%) aligned 0 times
+    452 (0.00%) aligned exactly 1 time
+    1907 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720330_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+27473792 reads; of these:
+  27473792 (100.00%) were unpaired; of these:
+    27471514 (99.99%) aligned 0 times
+    454 (0.00%) aligned exactly 1 time
+    1824 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720330_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27473240 reads; of these:
+  27473240 (100.00%) were unpaired; of these:
+    27470943 (99.99%) aligned 0 times
+    460 (0.00%) aligned exactly 1 time
+    1837 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720331_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+13682983 reads; of these:
+  13682983 (100.00%) were unpaired; of these:
+    13682047 (99.99%) aligned 0 times
+    205 (0.00%) aligned exactly 1 time
+    731 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720331_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+13967515 reads; of these:
+  13967515 (100.00%) were unpaired; of these:
+    13966605 (99.99%) aligned 0 times
+    188 (0.00%) aligned exactly 1 time
+    722 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720332_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+19928964 reads; of these:
+  19928964 (100.00%) were unpaired; of these:
+    19927171 (99.99%) aligned 0 times
+    344 (0.00%) aligned exactly 1 time
+    1449 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720332_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20085207 reads; of these:
+  20085207 (100.00%) were unpaired; of these:
+    20083340 (99.99%) aligned 0 times
+    381 (0.00%) aligned exactly 1 time
+    1486 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720333_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+24648701 reads; of these:
+  24648701 (100.00%) were unpaired; of these:
+    24647137 (99.99%) aligned 0 times
+    303 (0.00%) aligned exactly 1 time
+    1261 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720333_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+24592663 reads; of these:
+  24592663 (100.00%) were unpaired; of these:
+    24591099 (99.99%) aligned 0 times
+    317 (0.00%) aligned exactly 1 time
+    1247 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720334_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+28033214 reads; of these:
+  28033214 (100.00%) were unpaired; of these:
+    28030629 (99.99%) aligned 0 times
+    576 (0.00%) aligned exactly 1 time
+    2009 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720334_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28382903 reads; of these:
+  28382903 (100.00%) were unpaired; of these:
+    28380346 (99.99%) aligned 0 times
+    529 (0.00%) aligned exactly 1 time
+    2028 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720335_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31587536 reads; of these:
+  31587536 (100.00%) were unpaired; of these:
+    31584735 (99.99%) aligned 0 times
+    569 (0.00%) aligned exactly 1 time
+    2232 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720335_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31973471 reads; of these:
+  31973471 (100.00%) were unpaired; of these:
+    31970723 (99.99%) aligned 0 times
+    576 (0.00%) aligned exactly 1 time
+    2172 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720336_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+31494848 reads; of these:
+  31494848 (100.00%) were unpaired; of these:
+    31492865 (99.99%) aligned 0 times
+    421 (0.00%) aligned exactly 1 time
+    1562 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720336_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+31997203 reads; of these:
+  31997203 (100.00%) were unpaired; of these:
+    31995172 (99.99%) aligned 0 times
+    420 (0.00%) aligned exactly 1 time
+    1611 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720337_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+19681947 reads; of these:
+  19681947 (100.00%) were unpaired; of these:
+    19680211 (99.99%) aligned 0 times
+    356 (0.00%) aligned exactly 1 time
+    1380 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720337_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+19832003 reads; of these:
+  19832003 (100.00%) were unpaired; of these:
+    19830344 (99.99%) aligned 0 times
+    334 (0.00%) aligned exactly 1 time
+    1325 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720338_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+33292963 reads; of these:
+  33292963 (100.00%) were unpaired; of these:
+    33289514 (99.99%) aligned 0 times
+    721 (0.00%) aligned exactly 1 time
+    2728 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720338_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+33818959 reads; of these:
+  33818959 (100.00%) were unpaired; of these:
+    33815534 (99.99%) aligned 0 times
+    717 (0.00%) aligned exactly 1 time
+    2708 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720339_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+35536829 reads; of these:
+  35536829 (100.00%) were unpaired; of these:
+    35533262 (99.99%) aligned 0 times
+    766 (0.00%) aligned exactly 1 time
+    2801 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720339_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+36293774 reads; of these:
+  36293774 (100.00%) were unpaired; of these:
+    36290188 (99.99%) aligned 0 times
+    742 (0.00%) aligned exactly 1 time
+    2844 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720340_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+20048883 reads; of these:
+  20048883 (100.00%) were unpaired; of these:
+    20047547 (99.99%) aligned 0 times
+    278 (0.00%) aligned exactly 1 time
+    1058 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720340_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+20229318 reads; of these:
+  20229318 (100.00%) were unpaired; of these:
+    20228008 (99.99%) aligned 0 times
+    274 (0.00%) aligned exactly 1 time
+    1036 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720341_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+27729208 reads; of these:
+  27729208 (100.00%) were unpaired; of these:
+    27727625 (99.99%) aligned 0 times
+    336 (0.00%) aligned exactly 1 time
+    1247 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720341_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+27426308 reads; of these:
+  27426308 (100.00%) were unpaired; of these:
+    27424810 (99.99%) aligned 0 times
+    325 (0.00%) aligned exactly 1 time
+    1173 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720342_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+29195706 reads; of these:
+  29195706 (100.00%) were unpaired; of these:
+    29193063 (99.99%) aligned 0 times
+    561 (0.00%) aligned exactly 1 time
+    2082 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720342_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+28942964 reads; of these:
+  28942964 (100.00%) were unpaired; of these:
+    28940355 (99.99%) aligned 0 times
+    557 (0.00%) aligned exactly 1 time
+    2052 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720343_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+26071268 reads; of these:
+  26071268 (100.00%) were unpaired; of these:
+    26069174 (99.99%) aligned 0 times
+    460 (0.00%) aligned exactly 1 time
+    1634 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720343_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+26031688 reads; of these:
+  26031688 (100.00%) were unpaired; of these:
+    26029559 (99.99%) aligned 0 times
+    411 (0.00%) aligned exactly 1 time
+    1718 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720344_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+21430251 reads; of these:
+  21430251 (100.00%) were unpaired; of these:
+    21428874 (99.99%) aligned 0 times
+    281 (0.00%) aligned exactly 1 time
+    1096 (0.01%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR5720344_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+21477632 reads; of these:
+  21477632 (100.00%) were unpaired; of these:
+    21476296 (99.99%) aligned 0 times
+    282 (0.00%) aligned exactly 1 time
+    1054 (0.00%) aligned >1 times
+0.01% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507277_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+166057 reads; of these:
+  166057 (100.00%) were unpaired; of these:
+    166056 (100.00%) aligned 0 times
+    1 (0.00%) aligned exactly 1 time
+    0 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507277_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+167241 reads; of these:
+  167241 (100.00%) were unpaired; of these:
+    167236 (100.00%) aligned 0 times
+    3 (0.00%) aligned exactly 1 time
+    2 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507278_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+48067355 reads; of these:
+  48067355 (100.00%) were unpaired; of these:
+    48066257 (100.00%) aligned 0 times
+    222 (0.00%) aligned exactly 1 time
+    876 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507278_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+48557948 reads; of these:
+  48557948 (100.00%) were unpaired; of these:
+    48556866 (100.00%) aligned 0 times
+    294 (0.00%) aligned exactly 1 time
+    788 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507279_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+47139967 reads; of these:
+  47139967 (100.00%) were unpaired; of these:
+    47138149 (100.00%) aligned 0 times
+    429 (0.00%) aligned exactly 1 time
+    1389 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507279_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+47023862 reads; of these:
+  47023862 (100.00%) were unpaired; of these:
+    47022065 (100.00%) aligned 0 times
+    434 (0.00%) aligned exactly 1 time
+    1363 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507280_1.fastq_output_forward_paired.fq_trim50.fastq_synthetic16S.log <==
+79581761 reads; of these:
+  79581761 (100.00%) were unpaired; of these:
+    79579666 (100.00%) aligned 0 times
+    497 (0.00%) aligned exactly 1 time
+    1598 (0.00%) aligned >1 times
+0.00% overall alignment rate
+
+==> ocean/ocean2/log50/SRR6507280_1.fastq_output_reverse_paired.fq_trim50.fastq_synthetic16S.log <==
+80121231 reads; of these:
+  80121231 (100.00%) were unpaired; of these:
+    80119008 (100.00%) aligned 0 times
+    583 (0.00%) aligned exactly 1 time
+    1640 (0.00%) aligned >1 times
+0.00% overall alignment rate
